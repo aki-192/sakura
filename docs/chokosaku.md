@@ -1,0 +1,24 @@
+---
+title: ちょこさく
+---
+
+# ちょこさく
+
+| #   | Date | Title | B |
+| --- | --- | --- | --- | 
+| 001 | 2024.04.08 | ウルフクイーン企画前半 | [B](https://www.bilibili.com/video/BV18A4m1F72N?p=2) |
+| 002 | 2024.04.15 | ウルフクイーン企画後半！ | [B](https://www.bilibili.com/video/BV1sm421x79M?p=2) |
+| 003 | 2024.04.22 | 三期生私って何キャラ？ランキング | [B](https://www.bilibili.com/video/BV1gt421A7Mz?p=2) |
+| 004 | 2024.04.29 | ゆるゆるスクープ発表会！ | [B](https://www.bilibili.com/video/BV1nf421S7F4/) |
+| 005 | 2024.05.06 | 三期生私って何キャラ？ランキング第二弾 | [B](https://www.bilibili.com/video/BV1Mm421u7sN/) |
+| 006 | 2024.05.13 | 三期生私って何キャラ？ランキング第三弾 | [B](https://www.bilibili.com/video/BV1dm421u7kc/) | 
+| 007 | 2024.05.20 | 澤部フェス後夜祭！ゲーム大会！ | [B](https://www.bilibili.com/video/BV19142117Rx/) | 
+| 008 | 2024.05.27 | もっと教えて！プライベートQ＆A | [B](https://www.bilibili.com/video/BV1rs421g7ud/) |
+| 009 | 2024.06.03 | 三期生私って何キャラ？ランキング第四弾 | [B](https://www.bilibili.com/video/BV1mr421c7bh/) |
+| 010 | 2024.06.10 | 先輩にも守らせて！後輩をマモリビトチャレンジ | [B](https://www.bilibili.com/video/BV1Cw4m1v7sD/) |
+| 011 | 2024.06.17 | 先輩にも守らせて！後輩をマモリビトチャレンジ (2) | [B1](https://www.bilibili.com/video/BV1Tf421Q75Q/) | 
+| 012 | 2024.06.24 | 9thシングルヒット祈願の裏側を大公開しちゃおう前編 | |
+| 013 | 2024.07.01 | 9thシングルヒット祈願の裏側を大公開しちゃおう後編 | | 
+| 014 | 2024.07.08 | 新センター山下瞳月のまだまだ得意なことあんねん！ | [B](https://www.bilibili.com/video/BV1Ky411q7gs/) |
+| 015 | 2024.07.15 | まだまだあるでしょ！！心の底から叫べ！ | |
+| 016 | 2024.07.22 | 得意ジャンルでは負けられない！ジャンル王クイズバトル | [B1](https://www.bilibili.com/video/BV1yr421K7c8?p=2) | 

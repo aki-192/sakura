@@ -3,6 +3,7 @@ site_url: https://aki-192.github.io/sakura/
 repo_url: https://github.com/aki-192/sakura
 nav:
   - index.md
+  - chokosaku.md
 theme:
   name: material
   palette:
