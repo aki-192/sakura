@@ -14,3 +14,14 @@ title: その他
 | 大沼晶保×武元唯衣×田村保乃 | [:simple-bilibili:](https://www.bilibili.com/video/BV1gQ4y1q7VW?p=1) |
 | 上村莉菜×尾関梨香×原田葵 | [:simple-bilibili:](https://www.bilibili.com/video/BV1gQ4y1q7VW?p=4) |
 | 土生瑞穂×松田里奈×森田ひかる | [:simple-bilibili:](https://www.bilibili.com/video/BV1gQ4y1q7VW?p=7) |
+
+
+## Go To サクラ旅
+| Date       | Title                                                                            | Y                                                               | B |
+| ---------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------- | - |
+| 2023.02.08 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 宮崎～ | [:simple-youtube:](https://www.youtube.com/watch?v=gDVqo1Q-vEQ) | |
+| 2023.02.13 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 福岡～ | [:simple-youtube:](https://www.youtube.com/watch?v=_rUep0-AYBA) | |
+| 2023.02.14 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 大阪～ | [:simple-youtube:](https://www.youtube.com/watch?v=H7KEznMGEns) | |
+| 2023.02.17 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 静岡・愛知～ | [:simple-youtube:](https://www.youtube.com/watch?v=w_delyCQVwA) | |
+| 2023.02.21 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 宮城～ | [:simple-youtube:](https://www.youtube.com/watch?v=Q_Gkta0cSD0) | [:simple-bilibili:](https://www.bilibili.com/video/BV1yY4y1D7TK/) |
+| 2023.02.24 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 北海道～ | [:simple-youtube:](https://www.youtube.com/watch?v=0Dk3XS2Ze00) | |
