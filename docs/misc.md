@@ -20,10 +20,10 @@ title: その他
 | Date       | Title                                                                            | Y                                                               | B |
 | ---------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------- | - |
 | 2023.02.08 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 宮崎～ | [:simple-youtube:](https://www.youtube.com/watch?v=gDVqo1Q-vEQ) | [:simple-bilibili:](https://www.bilibili.com/video/BV1yY4y1D7TK/) |
-| 2023.02.13 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 福岡～ | [:simple-youtube:](https://www.youtube.com/watch?v=_rUep0-AYBA) | |
-| 2023.02.14 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 大阪～ | [:simple-youtube:](https://www.youtube.com/watch?v=H7KEznMGEns) | |
+| 2023.02.13 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 福岡～ | [:simple-youtube:](https://www.youtube.com/watch?v=_rUep0-AYBA) | [:simple-bilibili:](https://www.bilibili.com/video/BV1L54y1P7YZ/) |
+| 2023.02.14 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 大阪～ | [:simple-youtube:](https://www.youtube.com/watch?v=H7KEznMGEns) | [:simple-bilibili:](https://www.bilibili.com/video/BV1L54y1P7YZ/) |
 | 2023.02.17 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 静岡・愛知～ | [:simple-youtube:](https://www.youtube.com/watch?v=w_delyCQVwA) | |
-| 2023.02.21 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 宮城～ | [:simple-youtube:](https://www.youtube.com/watch?v=Q_Gkta0cSD0) | |
+| 2023.02.21 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 宮城～ | [:simple-youtube:](https://www.youtube.com/watch?v=Q_Gkta0cSD0) | [:simple-bilibili:](https://www.bilibili.com/video/BV1SD4y1G7Xc/) |
 | 2023.02.24 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 北海道～ | [:simple-youtube:](https://www.youtube.com/watch?v=0Dk3XS2Ze00) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Hs4y187ce/) |
 
 ## マネージャーのスマホに眠るメンバーの秘蔵動画集
