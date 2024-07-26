@@ -2,7 +2,11 @@ site_name: Sakurazaka
 site_url: https://aki-192.github.io/sakura/
 nav:
   - index.md
+  - live.md
+  - sokosaku.md
   - chokosaku.md
+  - 3rdgen.md
+  - misc.md
 theme:
   name: material
   palette:

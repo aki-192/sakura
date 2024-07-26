@@ -20,5 +20,5 @@ title: ちょこさく
 | 012 | 2024.06.24 | 9thシングルヒット祈願の裏側を大公開しちゃおう前編 | |
 | 013 | 2024.07.01 | 9thシングルヒット祈願の裏側を大公開しちゃおう後編 | | 
 | 014 | 2024.07.08 | 新センター山下瞳月のまだまだ得意なことあんねん！ | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ky411q7gs/) |
-| 015 | 2024.07.15 | まだまだあるでしょ！！心の底から叫べ！ | |
+| 015 | 2024.07.15 | まだまだあるでしょ！！心の底から叫べ！ | [:simple-bilibili:](https://www.bilibili.com/video/BV19T421k7pT/) |
 | 016 | 2024.07.22 | 得意ジャンルでは負けられない！ジャンル王クイズバトル | [:simple-bilibili:](https://www.bilibili.com/video/BV1yr421K7c8?p=2) | 
