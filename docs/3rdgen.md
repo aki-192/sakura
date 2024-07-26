@@ -35,7 +35,7 @@ title: 三期生
 
 | Date | B |
 | --- | --- | 
-| 2023.03.04 | [:simple-bilibili:](https://www.bilibili.com/video/BV1qa4y1m7Qc/) P1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1sV411X7NN/) P2 |
+| 2023.03.04 | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1qa4y1m7Qc/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1sV411X7NN/) |
 | 2023.03.05 | [:simple-bilibili:](https://www.bilibili.com/video/BV1JX4y1S7QY/) |
 
 ## 新参者
@@ -43,5 +43,5 @@ title: 三期生
 | Date | L | BD |
 | --- | --- | --- |
 | 2023.11.12 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Lu4y1V7R4/) | |
-| 2023.12.02 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rt421b7Uo/) | [:simple-bilibili:](https://www.bilibili.com/video/BV13C411a7bm/) P1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1xw4m1Z7Li/) P2 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1sc411S7oH/) BTS |
+| 2023.12.02 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rt421b7Uo/) | [:simple-bilibili: P1](https://www.bilibili.com/video/BV13C411a7bm/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1xw4m1Z7Li/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV1sc411S7oH/) |
 
