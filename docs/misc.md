@@ -4,7 +4,7 @@ title: その他
 
 # その他
 ## SAKURA MEGURI
-| #   | L |
+| #   | B |
 | --- | --- | 
 | 齋藤冬優花×菅井友香×守屋茜 | [:simple-bilibili:](https://www.bilibili.com/video/BV1gQ4y1q7VW?p=5) |
 | 渡辺梨加×渡邉理佐×増本綺良 | [:simple-bilibili:](https://www.bilibili.com/video/BV1gQ4y1q7VW?p=3) |
@@ -27,13 +27,13 @@ title: その他
 | 2023.02.24 | 【Vlog】Go To サクラ旅　～全国の桜名所巡り　時々メシ in 北海道～ | [:simple-youtube:](https://www.youtube.com/watch?v=0Dk3XS2Ze00) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Hs4y187ce/) |
 
 ## マネージャーのスマホに眠るメンバーの秘蔵動画集
-| #   | L |
+| #   | B |
 | --- | --- | 
 | 2021年編 | [:simple-bilibili:](https://www.bilibili.com/video/BV1sb4y137HJ?p=3) |
 | 2022年編 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Np4y1o7ve?p=3) |
 
 ## 海外ライブのついでにゆる～く撮ってきちゃいました！
-| #   | L |
+| #   | B |
 | --- | --- | 
 | パリ編 | [:simple-bilibili:](https://www.bilibili.com/video/BV13w4m1Z7uK?p=2) |
 | マレーシア編 | [:simple-bilibili:](https://www.bilibili.com/video/BV1gu4m1w7Ds/) |
