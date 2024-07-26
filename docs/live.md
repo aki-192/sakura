@@ -8,22 +8,22 @@ title: LIVE
 | --- | --- | --- | --- |
 | DCDL | 2020.12.08 | | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rv41177Zj?p=1) |
 | ST | 2021.01.31 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rv41177Zj?p=2) | |
-| BL | 2021.06.16~2021.06.18 | [:simple-bilibili:](https://www.bilibili.com/video/BV1MM4y1u7MZ/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV17q4y1L7Hc/) D2 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1r54y1H7GN/) D3| |
-| WKF | 2021.07.09~2021.07.11 | [:simple-bilibili:](https://www.bilibili.com/video/BV1i64y14773/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1nK4y1u7WH/) D3| |
+| BL | 2021.06.16~2021.06.18 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1MM4y1u7MZ/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV17q4y1L7Hc/) <br> [:simple-bilibili: D3](https://www.bilibili.com/video/BV1r54y1H7GN/) | |
+| WKF | 2021.07.09~2021.07.11 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1i64y14773/) <br> [:simple-bilibili: D3](https://www.bilibili.com/video/BV1nK4y1u7WH/) | |
 | 1stT | 2021.10.31 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Vh411t7eg/) | |
-| 1stYAL | 2021.12.09~2021.12.10 | [:simple-bilibili:](https://www.bilibili.com/video/BV1v44y1a7hK/) D2 | [:simple-bilibili:](https://www.bilibili.com/video/BV11a4y1C7mu/) BTS |
-| 3rdSGBL| 2022.01.08~2022.01.09 | [:simple-bilibili:](https://www.bilibili.com/video/BV1y3411e71t/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1yP4y1E7HV/) D2| |
-| WRG | 2022.05.21~2022.05.22 | [:simple-bilibili:](https://www.bilibili.com/video/BV1sT4y1q7Ka/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1bT4y1q7Ma/) D2| |
-| WKF | 2022.08.22 | [:simple-bilibili:](https://www.bilibili.com/video/BV1hW4y187s1/) D2 | |
-| 2ndT | 2022.11.08~2022.11.09 | [:simple-bilibili:](https://www.bilibili.com/video/BV1nv4y1m7H5/) D2 | [:simple-bilibili:](https://www.bilibili.com/video/BV1NH4y1J7Cm/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1YqbsedEVq/) D2 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1ut421b7g9/) BTS|
-| 2ndYAL | 2022.12.08~2022.12.09 |  | [:simple-bilibili:](https://www.bilibili.com/video/BV1jz4y1E7kn/) P1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1cV4y1h72x/) P2|
+| 1stYAL | 2021.12.09~2021.12.10 | [:simple-bilibili: D2](https://www.bilibili.com/video/BV1v44y1a7hK/) | [:simple-bilibili: BTS](https://www.bilibili.com/video/BV11a4y1C7mu/) |
+| 3rdSGBL| 2022.01.08~2022.01.09 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1y3411e71t/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1yP4y1E7HV/) | |
+| WRG | 2022.05.21~2022.05.22 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1sT4y1q7Ka/)  <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1bT4y1q7Ma/) | |
+| WKF | 2022.08.22 | [:simple-bilibili: D2](https://www.bilibili.com/video/BV1hW4y187s1/) | |
+| 2ndT | 2022.11.08~2022.11.09 | [:simple-bilibili: D2](https://www.bilibili.com/video/BV1nv4y1m7H5/) | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1NH4y1J7Cm/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1YqbsedEVq/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV1ut421b7g9/) |
+| 2ndYAL | 2022.12.08~2022.12.09 |  | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1jz4y1E7kn/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1cV4y1h72x/)|
 | Aeon Vol.2 | 2023.02.27 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs4y1Z7FV/) | |
 | 3rdT | 2023.06.01 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xh4y1d7ht/) | |
-| 3rdYAL | 2023.11.25~2023.11.26 | [:simple-bilibili:](https://www.bilibili.com/video/BV1fW421F7FY/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1Fw411h7hM?p=2)  D2| |
-| 7thSGBL | 2024.01.15~2024.01.16 | [:simple-bilibili:](https://www.bilibili.com/video/BV1nV411Q7uN/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1BJ4m1b7RX/) D2| [:simple-bilibili:](https://www.bilibili.com/video/BV1V1421b7ec/) <br> [:simple-bilibili:](https://www.bilibili.com/video/BV171421b7SU/) BTS |
-| KYG | 2024.01.31~2024.02.01 | [:simple-bilibili:](https://www.bilibili.com/video/BV1o1421Z7f2/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1b4421U7j5/) D2 | |
-| Aeon Vol.3 | 2024.03.30 | [:simple-bilibili:](https://www.bilibili.com/video/BV1DD42157Xf/) P1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1Dx4y1Y7Bo/) P2 | |
-| 8thSGBL | 2024.05.09~2024.05.10 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ub421h7K7/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1dw4m1Q7ov/) D2 | |
+| 3rdYAL | 2023.11.25~2023.11.26 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1fW421F7FY/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1Fw411h7hM?p=2) | |
+| 7thSGBL | 2024.01.15~2024.01.16 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1nV411Q7uN/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1BJ4m1b7RX/) | [:simple-bilibili: BD](https://www.bilibili.com/video/BV1V1421b7ec/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV171421b7SU/) |
+| KYG | 2024.01.31~2024.02.01 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1o1421Z7f2/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1b4421U7j5/) | |
+| Aeon Vol.3 | 2024.03.30 | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1DD42157Xf/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1Dx4y1Y7Bo/) | |
+| 8thSGBL | 2024.05.09~2024.05.10 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1ub421h7K7/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1dw4m1Q7ov/) | |
 | 4thT | 2024.06.16 | [:simple-bilibili:](https://www.bilibili.com/video/BV1jm42157Uc/) | |
 
 
