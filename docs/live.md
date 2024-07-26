@@ -15,9 +15,10 @@ title: LIVE
 | 3rdSGBL| 2022.01.08~2022.01.09 | [:simple-bilibili:](https://www.bilibili.com/video/BV1y3411e71t/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1yP4y1E7HV/) D2| |
 | WRG | 2022.05.21~2022.05.22 | [:simple-bilibili:](https://www.bilibili.com/video/BV1sT4y1q7Ka/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1bT4y1q7Ma/) D2| |
 | WKF | 2022.08.22 | [:simple-bilibili:](https://www.bilibili.com/video/BV1hW4y187s1/) D2 | |
-| Aeon Vol.2 | 2023.02.27 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs4y1Z7FV/) | |
-| 2ndT | 2022.11.08~2022.11.09 |  | [:simple-bilibili:](https://www.bilibili.com/video/BV1NH4y1J7Cm/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1ut421b7g9/) BTS|
+| 2ndT | 2022.11.08~2022.11.09 | [:simple-bilibili:](https://www.bilibili.com/video/BV1nv4y1m7H5/) D2 | [:simple-bilibili:](https://www.bilibili.com/video/BV1NH4y1J7Cm/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1YqbsedEVq/) D2 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1ut421b7g9/) BTS|
 | 2ndYAL | 2022.12.08~2022.12.09 |  | [:simple-bilibili:](https://www.bilibili.com/video/BV1jz4y1E7kn/) P1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1cV4y1h72x/) P2|
+| Aeon Vol.2 | 2023.02.27 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs4y1Z7FV/) | |
+| 3rdT | 2023.06.01 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xh4y1d7ht/) | |
 | 3rdYAL | 2023.11.25~2023.11.26 | [:simple-bilibili:](https://www.bilibili.com/video/BV1fW421F7FY/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1Fw411h7hM?p=2)  D2| |
 | 7thSGBL | 2024.01.15~2024.01.16 | [:simple-bilibili:](https://www.bilibili.com/video/BV1nV411Q7uN/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1BJ4m1b7RX/) D2| [:simple-bilibili:](https://www.bilibili.com/video/BV1V1421b7ec/) <br> [:simple-bilibili:](https://www.bilibili.com/video/BV171421b7SU/) BTS |
 | KYG | 2024.01.31~2024.02.01 | [:simple-bilibili:](https://www.bilibili.com/video/BV1o1421Z7f2/) D1 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1b4421U7j5/) D2 | |
