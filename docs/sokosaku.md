@@ -199,3 +199,4 @@ title: そこ曲がったら、櫻坂?
 | 191 | 2024.07.08 | 新センター山下瞳月の「かかってこんかい！」                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1sW421R7L1/)  |
 | 192 | 2024.07.15 | おい！櫻坂46 全力で声出せんのか！                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1Hy411i7oG/)  |
 | 193 | 2024.07.22 | 得意ジャンルで挑め！櫻坂46VSクイズ王バトル 前半                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1xr421K7ey/)  |
+| 194 | 2024.07.29 | 得意ジャンルで挑め！櫻坂46VSクイズ王バトル 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ZS421X7ZD/) |
