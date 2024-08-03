@@ -10,105 +10,105 @@ title: 欅って、書けない?
 
 | #   | Date       | Title                                                                | B                                                                                        |
 | --- | ---------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1   | 2015.10.05 | 欅坂46 自撮り自己紹介                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ts411277c/)                        |
-| 2   | 2015.10.12 | 欅坂46 自撮り自己紹介 (2)                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV18s41127cT/)                        |
-| 3   | 2015.10.19 | 欅坂46 自撮り自己紹介 (3)                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1zs41127K5/)                        |
-| 4   | 2015.10.26 | 欅坂46 スタジオ初登場!                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ds41127vj/)                        |
-| 5   | 2015.11.02 | 欅坂46 スタジオ初登場! (2)                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ns411d7va/)                        |
-| 6   | 2015.11.09 | 欅坂46 オリエンテーション夏合宿 潜入レポート!                                            | [:simple-bilibili:](https://www.bilibili.com/video/BV17s411d7N1/)                        |
-| 7   | 2015.11.16 | 欅坂46 秋の体力測定                                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Es411d7wB/)                        |
-| 8   | 2015.11.23 | 欅坂46 秋の体力測定 (2)                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV18s411d7Ls/)                        |
-| 9   | 2015.11.30 | 欅坂46 「お見立て会」潜入レポート! / 欅坂46に新メンバー加入!                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411d7X8/)                        |
-| 10  | 2015.12.07 | 欅坂46を掘り下げよう 初めての心理テスト                                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1As411o7XA/)                        |
-| 11  | 2015.12.14 | 欅坂46を掘り下げよう 初めての心理テスト (2)                                            | [:simple-bilibili:](https://www.bilibili.com/video/BV1js411o7DP/)                        |
-| 12  | 2015.12.21 | 欅坂46 はじめてのリアクションチェック                                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV11s41197D4/)                        |
-| 13  | 2015.12.28 | 欅坂46 はじめてのリアクションチェック (2)                                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ds41197Tz/)                        |
-| 14  | 2016.01.04 | 欅坂46 2016書き初め大会                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Vs411R712/)                        |
-| 15  | 2016.01.11 | 欅坂46 初めての料理チェック                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV17s411R74y/)                        |
-| 16  | 2016.01.18 | 欅坂46 初めての料理チェック (2)                                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1ks411R7ZG/)                        |
-| 17  | 2016.01.25 | ホントはどうなの? メンバーランキング                                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ss411R7aK/)                        |
-| 18  | 2016.02.01 | 欅坂46 お正月レポート                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV14s411X79n/)                        |
-| 19  | 2016.02.08 | テレビの先輩 土田&澤部兄さんに質問しよう                                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1ds411X7HN/)                        |
-| 20  | 2016.02.15 | メンバーの事をもっと知りたいので家族に緊急アンケート                                           | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ls41197uk/)                        |
-| 21  | 2016.02.22 | メンバーの事をもっと知りたいので家族に緊急アンケート (2)                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV14s41197ZZ/)                        |
-| 22  | 2016.02.29 | 欅坂46 ポンコツ女王決定戦 / デビューシングル選抜メンバー発表                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ls411Q7cP/)                        |
-| 23  | 2016.03.07 | 欅坂46 ポンコツ女王決定戦                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1as411Q7DY/)                        |
-| 24  | 2016.03.14 | 欅坂46 抜き打ちファッションチェック!                                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411Q7bm/)                        |
-| 25  | 2016.03.21 | 欅坂46 卒アルコレクション!                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zs411Q7YN/)                        |
-| 26  | 2016.03.28 | 欅坂46 デビューシングルキャンペーン 〜芸人の力を借りて多くの人に知ってもらおう!〜                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs411z7gs/)                        |
-| 27  | 2016.04.04 | 欅坂46 デビューシングルキャンペーン 〜芸人の力を借りて多くの人に知ってもらおう!〜 (2)                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Es411z7sy/)                        |
-| 28  | 2016.04.11 | 欅坂46 インテリ女王決定戦                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bs411z7Dd/)                        |
-| 29  | 2016.04.18 | 欅坂46 頭脳ポンコツ女王決定戦                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1fs411z78X/)                        |
-| 30  | 2016.04.25 | 欅坂46 大声選手権 / 欅坂46 じぶんヒストリー（長沢菜々香）                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bs411q7a1/)                        |
-| 31  | 2016.05.02 | メンバーの事はメンバーに聞け! 欅坂46 目安箱アンケート                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zs411q79R/)                        |
-| 32  | 2016.05.09 | メンバーの事はメンバーに聞け! 欅坂46 目安箱アンケート (2)                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Js411B7sp/)                        |
-| 33  | 2016.05.16 | 変わり者は誰だ!? サイレントマイノリティーアンケート                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1hs411B7JN/)                        |
-| 34  | 2016.06.06 | 変わり者は誰だ!? サイレントマイノリティーアンケート (2) / 欅坂46 じぶんヒストリー（石森虹花、原田葵）            | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rs411i7AJ/)                        |
-| 35  | 2016.06.13 | インテリ VS おバカちゃん ご褒美争奪バトル / 欅坂46 じぶんヒストリー（渡辺梨加）                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1ts411q7ZG/)                        |
-| 36  | 2016.06.20 | インテリ VS おバカちゃん ご褒美争奪バトル (2)                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1fs411e7Zg/)                        |
-| 37  | 2016.06.27 | 欅坂46 じぶんヒストリー（織田奈那、平手友梨奈） / 欅坂46 セカンドシングル選抜メンバー大発表!!                 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ps411v7fH/)                        |
-| 38  | 2016.07.04 | 欅坂46 モノマネ選手権                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ss411v7CD/)                        |
-| 39  | 2016.07.11 | 欅坂46 祝 初ドラマ決定記念 演技力チェック / 欅坂46 じぶんヒストリー（土生瑞穂）                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1hs411y78h/)                        |
-| 40  | 2016.07.18 | 欅坂46 祝 初ドラマ決定記念 演技力チェック (2)                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs41117Er/)                        |
-| 41  | 2016.07.25 | 真夏の激辛クイーン決定戦 / 欅坂46 じぶんヒストリー（渡邉理佐）                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1hs41117WH/)                        |
-| 42  | 2016.08.01 | 2ndシングル発売 私の世界には○○しかない!!                                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1Gs411C74p/)                        |
-| 43  | 2016.08.08 | 欅坂46セカンドシングルキャンペーン Twitterを愛で埋め尽くそう!                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs411y74w/)                        |
-| 44  | 2016.08.15 | 2ndシングル発売 私の世界には○○しかない!                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV11s411r7Lf/)                        |
-| 45  | 2016.08.22 | 夏っぽさなら負けないぞ! インテリ VS おバカちゃん 夏企画バトル                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1ps411k7E6/)                        |
-| 46  | 2016.08.29 | 夏っぽさなら負けないぞ! インテリ VS おバカちゃん 夏企画バトル (2)                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1bs41167FE/)                        |
-| 47  | 2016.09.05 | けやき坂46（ひらがなけやき） 徹底解剖!!                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1os41167Fe/)                        |
-| 48  | 2016.09.12 | 欅坂46 スタッフアンケート                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Gs411r72D/)                        |
-| 49  | 2016.09.19 | おバカちゃんチーム ご褒美ロケ夏休み満喫ツアー                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV1ss411t7cG/)                        |
-| 50  | 2016.09.26 | わからない事は今のうちに聞いておこう! / 欅坂46 じぶんヒストリー（長濱ねる、今泉佑唯）                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xs411t7LK/)                        |
-| 51  | 2016.10.03 | わからない事は今のうちに聞いておこう! (2)                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV1us411b7ez/)                        |
-| 52  | 2016.10.10 | 抜き打ち児嶋チェック!                                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV13s411477f/)                        |
-| 53  | 2016.10.17 | 欅坂46 じぶんヒストリー（尾関梨香、小林由依） / 欅坂46 3rdシングル選抜発表!!                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1ts41147sL/)                        |
-| 54  | 2016.10.24 | 女性グルメレポーターの椅子を狙え! 欅坂46 食レポチャレンジ!                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1fs41147G8/)                        |
-| 55  | 2016.10.31 | 祝・1周年記念 今後のことについて考えよう!                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1ys411s74q/)                        |
-| 56  | 2016.11.14 | 欅坂46 秋の大運動会! / 欅坂46 じぶんヒストリー（小池美波、守屋茜）                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ps411W7r7/)                        |
-| 57  | 2016.11.21 | 欅坂46 秋の大運動会! (2) / 欅坂46 じぶんヒストリー（佐藤詩織、志田愛佳）                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1es411W7Se/)                        |
-| 58  | 2016.11.28 | 欅坂46 秋の大運動会! (3) / 欅坂46 じぶんヒストリー（菅井友香）                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ns411s7hC/)                        |
-| 59  | 2016.12.05 | 3rdシングルキャンペーン どこよりも早く欅坂46の新曲をかけよう!                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411Y7Ht/)                        |
-| 60  | 2016.12.12 | 欅坂46を全国へ広めよう! 3rdシングルキャンペーン in 京都                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV13s411e7Lf/)                        |
-| 61  | 2016.12.19 | サンタさんいつまで信じてた? 家族で過ごすクリスマスエピソード大賞!                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1ks411e7eX/)                        |
-| 62  | 2016.12.26 | 年末緊急企画! 2016年未発表アンケート大清算SP / 欅坂46 じぶんヒストリー（鈴本美愉）                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1ys411a7ev/)                        |
-| 63  | 2017.01.09 | 欅坂46 初ワンマンライブに密着                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1cs411h7ki/)                        |
-| 64  | 2017.01.16 | 欅坂46 2017書き初め大会 / 欅坂46 じぶんヒストリー（上村莉菜）                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xs411h7Uu/)                        |
-| 65  | 2017.01.23 | お年玉争奪 連帯責任ゲーム!                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bs411b7a9/)                        |
-| 66  | 2017.01.30 | お年玉争奪 連帯責任ゲーム! (2)                                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1Hs41187CH/)                        |
-| 67  | 2017.02.06 | 秋の大運動会 ご褒美ロケ!                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1rx411172c/)                        |
-| 68  | 2017.02.13 | 澤部を使って理想の告白シミュレーション                                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV15x41127gD/)                        |
-| 69  | 2017.02.20 | 欅坂46 バレンタインの掟                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1tx411y7hu/)                        |
-| 70  | 2017.02.27 | 欅坂46 4thシングル選抜発表!! / 欅坂46 じぶんヒストリー（齋藤冬優花、米谷奈々未）                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mx41117Zw/)                        |
-| 71  | 2017.03.06 | 欅坂46 メンバーブログチェック                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1fx411k7W3/)                        |
-| 72  | 2017.03.13 | 欅坂46 メンバーブログチェック (2) / もっとみんなに知って欲しい! けやき坂46キャラ解説 by 長濱ねる            | [:simple-bilibili:](https://www.bilibili.com/video/BV1yx411C7FS/)                        |
-| 73  | 2017.03.20 | もっとみんなに知って欲しい! けやき坂46キャラ解説 by 長濱ねる (2)                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zx411r7Kz/)                        |
-| 74  | 2017.03.27 | 欅坂46 ◯◯キャラNO.1決定戦                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1bx411k7eX/)                        |
-| 75  | 2017.04.03 | 欅坂46 4thシングルキャンペーン                                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV16x411Q7zM/)                        |
-| 76  | 2017.04.10 | デビュー1周年 この際だからハッキリさせとこう!                                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1Sx411S7c3/)                        |
-| 77  | 2017.04.17 | デビュー1周年 この際だからハッキリさせとこう! (2)                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV16x411D78i/)                        |
-| 78  | 2017.04.24 | メンバーのあだ名を整理しよう / メンバー内の好きを整理しよう                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ux411U7a1/)                        |
-| 79  | 2017.05.01 | けやき坂46 はじめてのリアクションチェック                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mx411m7qq/)                        |
-| 80  | 2017.05.08 | 長沢くんと渡辺梨加の2人の休日                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1ax411m7qh/)                        |
-| 81  | 2017.05.15 | 土田&澤部に聞いてみたいこと                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mx411v7em/)                        |
-| 82  | 2017.05.22 | 澤部さんをお祝いしよう!                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Lx411Y79h/)                        |
-| 83  | 2017.05.29 | 「不協和音」大ヒット御礼! 欅坂46 僕は嫌だ選手権!                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Kx411e72f/)                        |
-| 84  | 2017.06.12 | 私だけのツボネタグランプリ                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bx41187d7/)                        |
-| 85  | 2017.06.19 | 遅くなってごめんなさい バレンタインのお返し お買い物編                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bx411h78T/)                        |
-| 86  | 2017.06.26 | 出来ないことは早めに報告! 私コレ無理なんです発表会                                           | [:simple-bilibili:](https://www.bilibili.com/video/BV1ox411672z/)                        |
-| 87  | 2017.07.10 | 真の大食いは誰なのか!? 大食いリベンジマッチ                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bx411q78T/)                        |
-| 88  | 2017.07.17 | 出来ないことは早めに報告! 私コレ無理なんです発表会 (2)                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1px411i7Jf/)                        |
-| 89  | 2017.07.24 | 抜き打ち! カバンの中身チェック                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zx411p7zJ/)                        |
-| 90  | 2017.07.31 | 私だってロケに行きたい!2人ロケフィーリングカップル                                           | [:simple-bilibili:](https://www.bilibili.com/video/BV1zx411H7HW/)                        |
-| 91  | 2017.08.07 | 2人ロケフィーリングカップル❤︎菅井と土生がロケして来ました〜                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1ix411n7cq/) :material-link-lock: |
-| 92  | 2017.08.14 | 2人ロケフィーリングカップル❤︎志田と理佐がロケして来ました〜 (2)                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1sx411H7pn/)                        |
-| 93  | 2017.08.21 | メンバーが体験 本当にあった怖い話                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1jx411b73D/)                        |
-| 94  | 2017.08.28 | 欅坂46VSけやき坂46 浴衣でカラオケ対決                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fx411t7XC/)                        |
-| 95  | 2017.09.04 | 土田さんのお誕生日をお祝いしよう!                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1vx411x7cK/)                        |
-| 96  | 2017.09.11 | 全国ツアー2017幕張メッセ公演に密着!                                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ux41147LD/)                        |
-| 97  | 2017.09.18 | 私の大好きなおじいちゃんおばあちゃん発表会                                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1gx411x7sT/)                        |
-| 98  | 2017.09.25 | 私の大好きなおじいちゃんおばあちゃん発表会 (2)  / 欅坂46 5thシングル選抜発表!!                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1bx411G7YQ/)                        |
-| 99  | 2017.10.02 | 新フロントメンバー 石森・尾関・土生のもっと私を掘り下げて!                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV13x41137Ah/)                        |
+| 001 | 2015.10.05 | 欅坂46 自撮り自己紹介                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ts411277c/)                        |
+| 002 | 2015.10.12 | 欅坂46 自撮り自己紹介 (2)                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV18s41127cT/)                        |
+| 003 | 2015.10.19 | 欅坂46 自撮り自己紹介 (3)                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1zs41127K5/)                        |
+| 004 | 2015.10.26 | 欅坂46 スタジオ初登場!                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ds41127vj/)                        |
+| 005 | 2015.11.02 | 欅坂46 スタジオ初登場! (2)                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ns411d7va/)                        |
+| 006 | 2015.11.09 | 欅坂46 オリエンテーション夏合宿 潜入レポート!                                            | [:simple-bilibili:](https://www.bilibili.com/video/BV17s411d7N1/)                        |
+| 007 | 2015.11.16 | 欅坂46 秋の体力測定                                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Es411d7wB/)                        |
+| 008 | 2015.11.23 | 欅坂46 秋の体力測定 (2)                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV18s411d7Ls/)                        |
+| 009 | 2015.11.30 | 欅坂46 「お見立て会」潜入レポート! / 欅坂46に新メンバー加入!                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411d7X8/)                        |
+| 010 | 2015.12.07 | 欅坂46を掘り下げよう 初めての心理テスト                                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1As411o7XA/)                        |
+| 011 | 2015.12.14 | 欅坂46を掘り下げよう 初めての心理テスト (2)                                            | [:simple-bilibili:](https://www.bilibili.com/video/BV1js411o7DP/)                        |
+| 012 | 2015.12.21 | 欅坂46 はじめてのリアクションチェック                                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV11s41197D4/)                        |
+| 013 | 2015.12.28 | 欅坂46 はじめてのリアクションチェック (2)                                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ds41197Tz/)                        |
+| 014 | 2016.01.04 | 欅坂46 2016書き初め大会                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Vs411R712/)                        |
+| 015 | 2016.01.11 | 欅坂46 初めての料理チェック                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV17s411R74y/)                        |
+| 016 | 2016.01.18 | 欅坂46 初めての料理チェック (2)                                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1ks411R7ZG/)                        |
+| 017 | 2016.01.25 | ホントはどうなの? メンバーランキング                                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ss411R7aK/)                        |
+| 018 | 2016.02.01 | 欅坂46 お正月レポート                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV14s411X79n/)                        |
+| 019 | 2016.02.08 | テレビの先輩 土田&澤部兄さんに質問しよう                                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1ds411X7HN/)                        |
+| 020 | 2016.02.15 | メンバーの事をもっと知りたいので家族に緊急アンケート                                           | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ls41197uk/)                        |
+| 021 | 2016.02.22 | メンバーの事をもっと知りたいので家族に緊急アンケート (2)                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV14s41197ZZ/)                        |
+| 022 | 2016.02.29 | 欅坂46 ポンコツ女王決定戦 / デビューシングル選抜メンバー発表                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ls411Q7cP/)                        |
+| 023 | 2016.03.07 | 欅坂46 ポンコツ女王決定戦                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1as411Q7DY/)                        |
+| 024 | 2016.03.14 | 欅坂46 抜き打ちファッションチェック!                                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411Q7bm/)                        |
+| 025 | 2016.03.21 | 欅坂46 卒アルコレクション!                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zs411Q7YN/)                        |
+| 026 | 2016.03.28 | 欅坂46 デビューシングルキャンペーン 〜芸人の力を借りて多くの人に知ってもらおう!〜                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs411z7gs/)                        |
+| 027 | 2016.04.04 | 欅坂46 デビューシングルキャンペーン 〜芸人の力を借りて多くの人に知ってもらおう!〜 (2)                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Es411z7sy/)                        |
+| 028 | 2016.04.11 | 欅坂46 インテリ女王決定戦                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bs411z7Dd/)                        |
+| 029 | 2016.04.18 | 欅坂46 頭脳ポンコツ女王決定戦                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1fs411z78X/)                        |
+| 030 | 2016.04.25 | 欅坂46 大声選手権 / 欅坂46 じぶんヒストリー（長沢菜々香）                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bs411q7a1/)                        |
+| 031 | 2016.05.02 | メンバーの事はメンバーに聞け! 欅坂46 目安箱アンケート                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zs411q79R/)                        |
+| 032 | 2016.05.09 | メンバーの事はメンバーに聞け! 欅坂46 目安箱アンケート (2)                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1Js411B7sp/)                        |
+| 033 | 2016.05.16 | 変わり者は誰だ!? サイレントマイノリティーアンケート                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1hs411B7JN/)                        |
+| 034 | 2016.06.06 | 変わり者は誰だ!? サイレントマイノリティーアンケート (2) / 欅坂46 じぶんヒストリー（石森虹花、原田葵）            | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rs411i7AJ/)                        |
+| 035 | 2016.06.13 | インテリ VS おバカちゃん ご褒美争奪バトル / 欅坂46 じぶんヒストリー（渡辺梨加）                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1ts411q7ZG/)                        |
+| 036 | 2016.06.20 | インテリ VS おバカちゃん ご褒美争奪バトル (2)                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1fs411e7Zg/)                        |
+| 037 | 2016.06.27 | 欅坂46 じぶんヒストリー（織田奈那、平手友梨奈） / 欅坂46 セカンドシングル選抜メンバー大発表!!                 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ps411v7fH/)                        |
+| 038 | 2016.07.04 | 欅坂46 モノマネ選手権                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ss411v7CD/)                        |
+| 039 | 2016.07.11 | 欅坂46 祝 初ドラマ決定記念 演技力チェック / 欅坂46 じぶんヒストリー（土生瑞穂）                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1hs411y78h/)                        |
+| 040 | 2016.07.18 | 欅坂46 祝 初ドラマ決定記念 演技力チェック (2)                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs41117Er/)                        |
+| 041 | 2016.07.25 | 真夏の激辛クイーン決定戦 / 欅坂46 じぶんヒストリー（渡邉理佐）                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1hs41117WH/)                        |
+| 042 | 2016.08.01 | 2ndシングル発売 私の世界には○○しかない!!                                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1Gs411C74p/)                        |
+| 043 | 2016.08.08 | 欅坂46セカンドシングルキャンペーン Twitterを愛で埋め尽くそう!                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fs411y74w/)                        |
+| 044 | 2016.08.15 | 2ndシングル発売 私の世界には○○しかない!                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV11s411r7Lf/)                        |
+| 045 | 2016.08.22 | 夏っぽさなら負けないぞ! インテリ VS おバカちゃん 夏企画バトル                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1ps411k7E6/)                        |
+| 046 | 2016.08.29 | 夏っぽさなら負けないぞ! インテリ VS おバカちゃん 夏企画バトル (2)                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1bs41167FE/)                        |
+| 047 | 2016.09.05 | けやき坂46（ひらがなけやき） 徹底解剖!!                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1os41167Fe/)                        |
+| 048 | 2016.09.12 | 欅坂46 スタッフアンケート                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Gs411r72D/)                        |
+| 049 | 2016.09.19 | おバカちゃんチーム ご褒美ロケ夏休み満喫ツアー                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV1ss411t7cG/)                        |
+| 050 | 2016.09.26 | わからない事は今のうちに聞いておこう! / 欅坂46 じぶんヒストリー（長濱ねる、今泉佑唯）                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xs411t7LK/)                        |
+| 051 | 2016.10.03 | わからない事は今のうちに聞いておこう! (2)                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV1us411b7ez/)                        |
+| 052 | 2016.10.10 | 抜き打ち児嶋チェック!                                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV13s411477f/)                        |
+| 053 | 2016.10.17 | 欅坂46 じぶんヒストリー（尾関梨香、小林由依） / 欅坂46 3rdシングル選抜発表!!                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1ts41147sL/)                        |
+| 054 | 2016.10.24 | 女性グルメレポーターの椅子を狙え! 欅坂46 食レポチャレンジ!                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1fs41147G8/)                        |
+| 055 | 2016.10.31 | 祝・1周年記念 今後のことについて考えよう!                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1ys411s74q/)                        |
+| 056 | 2016.11.14 | 欅坂46 秋の大運動会! / 欅坂46 じぶんヒストリー（小池美波、守屋茜）                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ps411W7r7/)                        |
+| 057 | 2016.11.21 | 欅坂46 秋の大運動会! (2) / 欅坂46 じぶんヒストリー（佐藤詩織、志田愛佳）                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1es411W7Se/)                        |
+| 058 | 2016.11.28 | 欅坂46 秋の大運動会! (3) / 欅坂46 じぶんヒストリー（菅井友香）                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ns411s7hC/)                        |
+| 059 | 2016.12.05 | 3rdシングルキャンペーン どこよりも早く欅坂46の新曲をかけよう!                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411Y7Ht/)                        |
+| 060 | 2016.12.12 | 欅坂46を全国へ広めよう! 3rdシングルキャンペーン in 京都                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV13s411e7Lf/)                        |
+| 061 | 2016.12.19 | サンタさんいつまで信じてた? 家族で過ごすクリスマスエピソード大賞!                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1ks411e7eX/)                        |
+| 062 | 2016.12.26 | 年末緊急企画! 2016年未発表アンケート大清算SP / 欅坂46 じぶんヒストリー（鈴本美愉）                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1ys411a7ev/)                        |
+| 063 | 2017.01.09 | 欅坂46 初ワンマンライブに密着                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1cs411h7ki/)                        |
+| 064 | 2017.01.16 | 欅坂46 2017書き初め大会 / 欅坂46 じぶんヒストリー（上村莉菜）                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xs411h7Uu/)                        |
+| 065 | 2017.01.23 | お年玉争奪 連帯責任ゲーム!                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bs411b7a9/)                        |
+| 066 | 2017.01.30 | お年玉争奪 連帯責任ゲーム! (2)                                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1Hs41187CH/)                        |
+| 067 | 2017.02.06 | 秋の大運動会 ご褒美ロケ!                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1rx411172c/)                        |
+| 068 | 2017.02.13 | 澤部を使って理想の告白シミュレーション                                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV15x41127gD/)                        |
+| 069 | 2017.02.20 | 欅坂46 バレンタインの掟                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1tx411y7hu/)                        |
+| 070 | 2017.02.27 | 欅坂46 4thシングル選抜発表!! / 欅坂46 じぶんヒストリー（齋藤冬優花、米谷奈々未）                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mx41117Zw/)                        |
+| 071 | 2017.03.06 | 欅坂46 メンバーブログチェック                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1fx411k7W3/)                        |
+| 072 | 2017.03.13 | 欅坂46 メンバーブログチェック (2) / もっとみんなに知って欲しい! けやき坂46キャラ解説 by 長濱ねる            | [:simple-bilibili:](https://www.bilibili.com/video/BV1yx411C7FS/)                        |
+| 073 | 2017.03.20 | もっとみんなに知って欲しい! けやき坂46キャラ解説 by 長濱ねる (2)                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zx411r7Kz/)                        |
+| 074 | 2017.03.27 | 欅坂46 ◯◯キャラNO.1決定戦                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1bx411k7eX/)                        |
+| 075 | 2017.04.03 | 欅坂46 4thシングルキャンペーン                                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV16x411Q7zM/)                        |
+| 076 | 2017.04.10 | デビュー1周年 この際だからハッキリさせとこう!                                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1Sx411S7c3/)                        |
+| 077 | 2017.04.17 | デビュー1周年 この際だからハッキリさせとこう! (2)                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV16x411D78i/)                        |
+| 078 | 2017.04.24 | メンバーのあだ名を整理しよう / メンバー内の好きを整理しよう                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ux411U7a1/)                        |
+| 079 | 2017.05.01 | けやき坂46 はじめてのリアクションチェック                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mx411m7qq/)                        |
+| 080 | 2017.05.08 | 長沢くんと渡辺梨加の2人の休日                                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1ax411m7qh/)                        |
+| 081 | 2017.05.15 | 土田&澤部に聞いてみたいこと                                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mx411v7em/)                        |
+| 082 | 2017.05.22 | 澤部さんをお祝いしよう!                                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Lx411Y79h/)                        |
+| 083 | 2017.05.29 | 「不協和音」大ヒット御礼! 欅坂46 僕は嫌だ選手権!                                          | [:simple-bilibili:](https://www.bilibili.com/video/BV1Kx411e72f/)                        |
+| 084 | 2017.06.12 | 私だけのツボネタグランプリ                                                        | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bx41187d7/)                        |
+| 085 | 2017.06.19 | 遅くなってごめんなさい バレンタインのお返し お買い物編                                         | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bx411h78T/)                        |
+| 086 | 2017.06.26 | 出来ないことは早めに報告! 私コレ無理なんです発表会                                           | [:simple-bilibili:](https://www.bilibili.com/video/BV1ox411672z/)                        |
+| 087 | 2017.07.10 | 真の大食いは誰なのか!? 大食いリベンジマッチ                                              | [:simple-bilibili:](https://www.bilibili.com/video/BV1Bx411q78T/)                        |
+| 088 | 2017.07.17 | 出来ないことは早めに報告! 私コレ無理なんです発表会 (2)                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV1px411i7Jf/)                        |
+| 089 | 2017.07.24 | 抜き打ち! カバンの中身チェック                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zx411p7zJ/)                        |
+| 090 | 2017.07.31 | 私だってロケに行きたい!2人ロケフィーリングカップル                                           | [:simple-bilibili:](https://www.bilibili.com/video/BV1zx411H7HW/)                        |
+| 091 | 2017.08.07 | 2人ロケフィーリングカップル❤︎菅井と土生がロケして来ました〜                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1ix411n7cq/) [:material-link-lock:] |
+| 092 | 2017.08.14 | 2人ロケフィーリングカップル❤︎志田と理佐がロケして来ました〜 (2)                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1sx411H7pn/)                        |
+| 093 | 2017.08.21 | メンバーが体験 本当にあった怖い話                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1jx411b73D/)                        |
+| 094 | 2017.08.28 | 欅坂46VSけやき坂46 浴衣でカラオケ対決                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fx411t7XC/)                        |
+| 095 | 2017.09.04 | 土田さんのお誕生日をお祝いしよう!                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1vx411x7cK/)                        |
+| 096 | 2017.09.11 | 全国ツアー2017幕張メッセ公演に密着!                                                 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ux41147LD/)                        |
+| 097 | 2017.09.18 | 私の大好きなおじいちゃんおばあちゃん発表会                                                | [:simple-bilibili:](https://www.bilibili.com/video/BV1gx411x7sT/)                        |
+| 098 | 2017.09.25 | 私の大好きなおじいちゃんおばあちゃん発表会 (2)  / 欅坂46 5thシングル選抜発表!!                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1bx411G7YQ/)                        |
+| 099 | 2017.10.02 | 新フロントメンバー 石森・尾関・土生のもっと私を掘り下げて!                                       | [:simple-bilibili:](https://www.bilibili.com/video/BV13x41137Ah/)                        |
 | 100 | 2017.10.09 | ようこそ欅坂ファミリーへ ひらがなけやき2期生さん、いらっしゃ～い!                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1ix411u76s/)                        |
 | 101 | 2017.10.16 | ようこそ欅坂ファミリーへ ひらがなけやき2期生さん、いらっしゃ～い! (2)                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mx411M7Ca/)                        |
 | 102 | 2017.10.23 | 欅坂46 5thシングルヒット祈願!                                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1Gx411u7Vu/)                        |
