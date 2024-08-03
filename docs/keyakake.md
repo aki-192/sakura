@@ -101,7 +101,7 @@ title: 欅って、書けない?
 | 089 | 2017.07.24 | 抜き打ち! カバンの中身チェック                                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1Zx411p7zJ/)                        |
 | 090 | 2017.07.31 | 私だってロケに行きたい!2人ロケフィーリングカップル                                           | [:simple-bilibili:](https://www.bilibili.com/video/BV1zx411H7HW/)                        |
 | 091 | 2017.08.07 | 2人ロケフィーリングカップル❤︎菅井と土生がロケして来ました〜                                      | [:simple-bilibili:](https://www.bilibili.com/video/BV1ix411n7cq/) :material-link-lock: |
-| 092 | 2017.08.14 | 2人ロケフィーリングカップル❤︎志田と理佐がロケして来ました〜 (2)                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1sx411H7pn/)                        |
+| 092 | 2017.08.14 | 2人ロケフィーリングカップル❤︎志田と理佐がロケして来ました〜                                   | [:simple-bilibili:](https://www.bilibili.com/video/BV1sx411H7pn/)                        |
 | 093 | 2017.08.21 | メンバーが体験 本当にあった怖い話                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1jx411b73D/)                        |
 | 094 | 2017.08.28 | 欅坂46VSけやき坂46 浴衣でカラオケ対決                                               | [:simple-bilibili:](https://www.bilibili.com/video/BV1Fx411t7XC/)                        |
 | 095 | 2017.09.04 | 土田さんのお誕生日をお祝いしよう!                                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1vx411x7cK/)                        |
