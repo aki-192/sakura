@@ -202,3 +202,4 @@ title: そこ曲がったら、櫻坂?
 | 194 | 2024.07.29 | 得意ジャンルで挑め！櫻坂46VSクイズ王バトル 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ZS421X7ZD/) |
 | 195 | 2024.08.05 | 櫻坂46真夏の大運動会！！前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1KZ421K7L4)|
 | 196 | 2024.08.12 | 櫻坂46真夏の大運動会！！後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV18m42137gB/) |
+| 197 | 2024.08.19 | 三期生真夏の胸キュングランプリ！ 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ZJWYerEZM/?spm_id_from=..search-card.all.click) |
