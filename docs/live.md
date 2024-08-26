@@ -38,5 +38,5 @@ title: LIVE
 | 5thSG | 2023.03.30 | [:simple-bilibili:](https://www.bilibili.com/video/BV15s4y1U7KP/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Gh411378v/) | |
 | 6thSG | 2023.07.26 | [:simple-bilibili:](https://www.bilibili.com/video/BV1uX4y1n7i9/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Hp4y137Du/) | |
 | 7thSG | 2023.12.21 | [:simple-bilibili:](https://www.bilibili.com/video/BV1qG411r7JX/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rw411G7g4/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1TZ4y1n77H/) |
-| 8thSG | 2024.04.04 | [:simple-bilibili:](https://www.bilibili.com/video/BV1rJ4m157y4/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1PH4y1M7L5/) | |
+| 8thSG | 2024.04.04 | [:simple-bilibili:](https://www.bilibili.com/video/BV1rJ4m157y4/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1PH4y1M7L5/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1FJ4m1N7i2/) |
 | 9thSG | 2024.08.08 | [:simple-bilibili:](https://www.bilibili.com/video/BV1cE421w7Bt/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Vf421B7wq/) | |
