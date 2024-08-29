@@ -31,7 +31,7 @@ title: LIVE
 
 | #   | Date | L | F | C |
 | --- | --- | --- | --- | --- | 
-| 1stSG | 2021.02.18 | [:simple-bilibili:](https://www.bilibili.com/video/BV1tb4y1R7Nw/) | [:simple-bilibili:]() | [:simple-bilibili:](https://www.bilibili.com/video/BV1NU4y1Y7ir/) |
+| 1stSG | 2021.02.18 | [:simple-bilibili:](https://www.bilibili.com/video/BV1tb4y1R7Nw/) |  | [:simple-bilibili:](https://www.bilibili.com/video/BV1NU4y1Y7ir/) |
 | 2ndSG | 2021.05.14 | [:simple-bilibili:](https://www.bilibili.com/video/BV1sh411v75A/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1zU4y1V7pt/) | |
 | 3rdSG | 2021.11.30 | [:simple-bilibili:](https://www.bilibili.com/video/BV1aM4y1w7u3/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1yQ4y1a7HY/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1f44y1n74e/) |
 | 4thSG | 2022.05.12 | [:simple-bilibili:](https://www.bilibili.com/video/BV1iZ4y1a7Ct/) | | |
