@@ -25,6 +25,7 @@ title: LIVE
 | Aeon Vol.3 | 2024.03.30 | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1DD42157Xf/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1Dx4y1Y7Bo/) | |
 | 8thSGBL | 2024.05.09~2024.05.10 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1ub421h7K7/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1dw4m1Q7ov/) | |
 | 4thT | 2024.06.16 | [:simple-bilibili:](https://www.bilibili.com/video/BV1jm42157Uc/) | |
+| 9thSGBL | 2024.08.25 | [:simple-bilibili:](https://www.bilibili.com/video/BV1WeHYeLEpP/) | |
 
 
 # MINILIVE
