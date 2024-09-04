@@ -204,3 +204,5 @@ title: そこ曲がったら、櫻坂?
 | 196 | 2024.08.12 | 櫻坂46真夏の大運動会！！後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV18m42137gB/) |
 | 197 | 2024.08.19 | 三期生真夏の胸キュングランプリ！ 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ZJWYerEZM/) |
 | 198 | 2024.08.26 | 三期生真夏の胸キュングランプリ！ 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1YLsMewENx/) |
+| 199 | 2024.09.02 | ツッチー52歳 ハピバフェス2024 | [:simple-bilibili:](https://www.bilibili.com/video/BV1i7pweUEQ7/) |
+| 200 | 2024.09.09 | 櫻坂バスケ部！部員緊急募集！ | |
