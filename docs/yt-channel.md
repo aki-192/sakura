@@ -73,4 +73,4 @@ title: 櫻坂チャンネル
 | 2024.08.09 | 【お弁当】愛しの的野に…石森愛情込めました！ 【手作り】 | 石森璃花×的野美青 | [:simple-youtube:](https://www.youtube.com/watch?v=2KR3Pd3xHv4) | [:simple-bilibili:](https://www.bilibili.com/video/BV1tkYiedELy/) |
 | 2024.08.13 | 【いのまり】幸阪の愛爆発！井上と花やしきデート！ | 井上梨名×幸阪茉里乃 | [:simple-youtube:](https://m.youtube.com/watch?v=GDYuXZBT_ic) | [:simple-bilibili:](https://www.bilibili.com/video/BV1o4421U7VH/) |
 | 2024.08.26 | 【変身メイク】セルフメイクでギャルに大変身！原宿行ってみた！ | 井上梨名×松田里奈×守屋麗奈×山﨑天 | [:simple-youtube:](https://www.youtube.com/watch?v=hkBoQExtLW0) | [:simple-bilibili:](https://www.bilibili.com/video/BV1iXsgeyEJF/) |
-| 2024.09.06 | 【Vlog】メンバー撮影！「BACKS LIVE!!」3日間の裏側に大潜入！【Vol.1】 | | [:simple-youtube:](https://www.youtube.com/watch?v=FK_r6GQb3ME) | |
+| 2024.09.06 | 【Vlog】メンバー撮影！「BACKS LIVE!!」3日間の裏側に大潜入！【Vol.1】 | | [:simple-youtube:](https://www.youtube.com/watch?v=FK_r6GQb3ME) | [:simple-bilibili:](https://www.bilibili.com/video/BV1LopaeeEYX/) |
