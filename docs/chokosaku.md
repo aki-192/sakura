@@ -25,5 +25,5 @@ title: ちょこさく
 | 017 | 2024.07.29 | 得意ジャンルでは負けられない！ジャンル王クイズバトル(2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1mw4m1k7hz/) |
 | 018 | 2024.08.05 | 末っ子vsお姉ちゃん運動会バトル | [:simple-bilibili:](https://www.bilibili.com/video/BV1CTsjezEde/) |
 | 019 | 2024.08.12 | 末っ子vsお姉ちゃん運動会バトル(2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1hLnfe8E49/) |
-| 020 | 2024.08.19 | 私たちもやりたい！胸キュン一言選手権 | [:simple-bilibili:](https://www.bilibili.com/video/BV1hzpQemE2f/) |
+| 020 | 2024.08.19 | 私たちもやりたい！胸キュン一言選手権 | [:simple-bilibili:](https://www.bilibili.com/video/BV1LMpzenEJP/) |
 | 021 | 2024.08.26 | もっとキュンキュンしたい！妄想の裏側大公開！ | [:simple-bilibili:](https://www.bilibili.com/video/BV1orHMeYEWh/) |
