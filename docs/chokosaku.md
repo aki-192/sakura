@@ -27,3 +27,6 @@ title: ちょこさく
 | 019 | 2024.08.12 | 末っ子vsお姉ちゃん運動会バトル(2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1hLnfe8E49/) |
 | 020 | 2024.08.19 | 私たちもやりたい！胸キュン一言選手権 | [:simple-bilibili:](https://www.bilibili.com/video/BV1LMpzenEJP/) |
 | 021 | 2024.08.26 | もっとキュンキュンしたい！妄想の裏側大公開！ | [:simple-bilibili:](https://www.bilibili.com/video/BV1NptFeKEgi/) |
+| 022 | 2024.09.02 | 土田フェス後夜祭 増本プレゼンツ！キラフェス！ | |
+| 023 | 2024.09.09 | バスケ部マネージャー能力チェック | |
+| 024 | 2024.09.16 | これなら私も負けへんで！根拠のない自信バトル 番外編 | |
