@@ -31,3 +31,4 @@ title: ちょこさく
 | 023 | 2024.09.09 | バスケ部マネージャー能力チェック | |
 | 024 | 2024.09.16 | これなら私も負けへんで！根拠のない自信バトル 番外編 | [:simple-bilibili:](https://www.bilibili.com/video/BV1WVsaeDEo1?p=2) |
 | 025 | 2024.09.23 | もっと知りたい！プライベートおでかけダイアリー番外編 | | 
+| 026 | 2024.09.30 | 井上を楽しませろ！お姉ちゃんご褒美チャンス | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mv4PeSEZJ/) |
