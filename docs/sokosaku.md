@@ -208,4 +208,4 @@ title: そこ曲がったら、櫻坂?
 | 200 | 2024.09.09 | 櫻坂バスケ部！部員緊急募集！ | [:simple-bilibili:](https://www.bilibili.com/video/BV1PX4keQEoQ/) |
 | 201 | 2024.09.16 | これなら私も負けへんで！根拠のない自信バトル | [:simple-bilibili:](https://www.bilibili.com/video/BV1hpt7eFEML/) |
 | 202 | 2024.09.23 | プライベート おでかけダイアリー / 10thシングル選抜発表 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Nkxue4Ebm/) | 
-| 203 | 2024.09.30 | 運動会ご褒美企画 | |
+| 203 | 2024.09.30 | 運動会ご褒美企画 | [:simple-bilibili:](https://www.bilibili.com/video/BV12g4gecE9q/) |
