@@ -70,9 +70,10 @@ title: 櫻坂チャンネル
 | 2024.07.19 | 【アーカイブ】初のゲーム実況生配信！櫻坂「桃鉄」女王決定戦！【桃鉄ワールド】                                         | 井上梨名×大園玲×谷口愛季×村井優                                               | [:simple-youtube:](https://www.youtube.com/watch?v=dWFFSyHbxUI)                                                                            |
 | 2024.07.23 | 【家族が増えました】小池美波3匹の母になる！目指せ運動会！                                                  | 小池美波×遠藤光莉×遠藤理子                                                  | [:simple-youtube:](https://www.youtube.com/watch?v=J1oEqPEdSQc)                                                                            | [:simple-bilibili:](https://www.bilibili.com/video/BV1rr421K7GP/)                                                                              |
 | 2024.08.01 | 【焼き鳥デート】大人の嗜み！いのりがひとり焼き鳥に挑戦！【初恋】 | 井上梨名 | [:simple-youtube:](https://www.youtube.com/watch?v=kojIgdO1s68) | [:simple-bilibili:](https://www.bilibili.com/video/BV1RAYGeNE9V?p=2) |
-| 2024.08.09 | 【お弁当】愛しの的野に…石森愛情込めました！ 【手作り】 | 石森璃花×的野美青 | [:simple-youtube:](https://www.youtube.com/watch?v=2KR3Pd3xHv4) | [:simple-bilibili:](https://www.bilibili.com/video/BV1tkYiedELy/) |
+| 2024.08.09 | 【お弁当】愛しの的野に…石森愛情込めました！ 【手作り】 | 石森璃花×的野美青 | [:simple-youtube:](https://www.youtube.com/watch?v=2KR3Pd3xHv4) | [:simple-bilibili:](https://www.bilibili.com/video/BV1j44MerEE4/) |
 | 2024.08.13 | 【いのまり】幸阪の愛爆発！井上と花やしきデート！ | 井上梨名×幸阪茉里乃 | [:simple-youtube:](https://m.youtube.com/watch?v=GDYuXZBT_ic) | [:simple-bilibili:](https://www.bilibili.com/video/BV1o4421U7VH/) |
 | 2024.08.26 | 【変身メイク】セルフメイクでギャルに大変身！原宿行ってみた！ | 井上梨名×松田里奈×守屋麗奈×山﨑天 | [:simple-youtube:](https://www.youtube.com/watch?v=hkBoQExtLW0) | [:simple-bilibili:](https://www.bilibili.com/video/BV1iXsgeyEJF/) |
 | 2024.09.06 | 【Vlog】メンバー撮影！「BACKS LIVE!!」3日間の裏側に大潜入！【Vol.1】 | | [:simple-youtube:](https://www.youtube.com/watch?v=FK_r6GQb3ME) | [:simple-bilibili:](https://www.bilibili.com/video/BV1LopaeeEYX/) |
 | 2024.09.14 | 【潜入】齋藤&向井が売り子をやってみた&記念撮影も！【Vol.2】 | 齋藤冬優花×向井純葉 | [:simple-youtube::](https://www.youtube.com/watch?v=fz8KwqeO-oY) | | 
 | 2024.09.18 | 【猫カフェ】かりんが猫とあそんでみた | 藤吉夏鈴 | [:simple-youtube:](https://www.youtube.com/watch?v=oH_ySXqLAas) | [:simple-bilibili:](https://www.bilibili.com/video/BV1sGtEeREf9/) |
+| 2024.09.28 | 【Vlog】まつりのなつやすみwith松田ファミリー【in宮崎】 | [:simple-youtube:](https://www.youtube.com/watch?v=xJNfuOlBB2w) | |
