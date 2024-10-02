@@ -76,4 +76,4 @@ title: 櫻坂チャンネル
 | 2024.09.06 | 【Vlog】メンバー撮影！「BACKS LIVE!!」3日間の裏側に大潜入！【Vol.1】 | | [:simple-youtube:](https://www.youtube.com/watch?v=FK_r6GQb3ME) | [:simple-bilibili:](https://www.bilibili.com/video/BV1LopaeeEYX/) |
 | 2024.09.14 | 【潜入】齋藤&向井が売り子をやってみた&記念撮影も！【Vol.2】 | 齋藤冬優花×向井純葉 | [:simple-youtube::](https://www.youtube.com/watch?v=fz8KwqeO-oY) | | 
 | 2024.09.18 | 【猫カフェ】かりんが猫とあそんでみた | 藤吉夏鈴 | [:simple-youtube:](https://www.youtube.com/watch?v=oH_ySXqLAas) | [:simple-bilibili:](https://www.bilibili.com/video/BV1sGtEeREf9/) |
-| 2024.09.28 | 【Vlog】まつりのなつやすみwith松田ファミリー【in宮崎】 | [:simple-youtube:](https://www.youtube.com/watch?v=xJNfuOlBB2w) | |
+| 2024.09.28 | 【Vlog】まつりのなつやすみwith松田ファミリー【in宮崎】 | 松田里奈 | [:simple-youtube:](https://www.youtube.com/watch?v=xJNfuOlBB2w) | [:simple-bilibili:](https://www.bilibili.com/video/BV15dxte8E7o/) |
