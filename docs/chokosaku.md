@@ -28,7 +28,7 @@ title: ちょこさく
 | 020 | 197 | 2024.08.19 | 私たちもやりたい！胸キュン一言選手権 | [:simple-bilibili:](https://www.bilibili.com/video/BV1KC12YFEhx?p=11) |
 | 021 | 198 | 2024.08.26 | もっとキュンキュンしたい！妄想の裏側大公開！ | [:simple-bilibili:](https://www.bilibili.com/video/BV1KC12YFEhx?p=12) |
 | 022 | 199 | 2024.09.02 | 土田フェス後夜祭 増本プレゼンツ！キラフェス！ | [:simple-bilibili:](https://www.bilibili.com/video/BV1KC12YFEhx?p=13) |
-| 023 | 200 | 2024.09.09 | バスケ部マネージャー能力チェック | |
+| 023 | 200 | 2024.09.09 | バスケ部マネージャー能力チェック | [:simple-bilibili:](https://www.bilibili.com/video/BV1fF2HYLEFa/) |
 | 024 | 201 | 2024.09.16 | これなら私も負けへんで！根拠のない自信バトル 番外編 | [:simple-bilibili:](https://www.bilibili.com/video/BV1WVsaeDEo1?p=2) |
 | 025 | 202 | 2024.09.23 | もっと知りたい！プライベートおでかけダイアリー番外編 | | 
 | 026 | 203 | 2024.09.30 | 井上を楽しませろ！お姉ちゃんご褒美チャンス | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mv4PeSEZJ/) |
