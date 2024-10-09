@@ -74,6 +74,7 @@ title: 櫻坂チャンネル
 | 2024.08.13 | 【いのまり】幸阪の愛爆発！井上と花やしきデート！ | 井上梨名×幸阪茉里乃 | [:simple-youtube:](https://m.youtube.com/watch?v=GDYuXZBT_ic) | [:simple-bilibili:](https://www.bilibili.com/video/BV1o4421U7VH/) |
 | 2024.08.26 | 【変身メイク】セルフメイクでギャルに大変身！原宿行ってみた！ | 井上梨名×松田里奈×守屋麗奈×山﨑天 | [:simple-youtube:](https://www.youtube.com/watch?v=hkBoQExtLW0) | [:simple-bilibili:](https://www.bilibili.com/video/BV1iXsgeyEJF/) |
 | 2024.09.06 | 【Vlog】メンバー撮影！「BACKS LIVE!!」3日間の裏側に大潜入！【Vol.1】 | | [:simple-youtube:](https://www.youtube.com/watch?v=FK_r6GQb3ME) | [:simple-bilibili:](https://www.bilibili.com/video/BV1LopaeeEYX/) |
-| 2024.09.14 | 【潜入】齋藤&向井が売り子をやってみた&記念撮影も！【Vol.2】 | 齋藤冬優花×向井純葉 | [:simple-youtube::](https://www.youtube.com/watch?v=fz8KwqeO-oY) | | 
+| 2024.09.14 | 【潜入】齋藤&向井が売り子をやってみた&記念撮影も！【Vol.2】 | 齋藤冬優花×向井純葉 | [:simple-youtube::](https://www.youtube.com/watch?v=fz8KwqeO-oY) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Le2PYFEKf?p=2) | 
 | 2024.09.18 | 【猫カフェ】かりんが猫とあそんでみた | 藤吉夏鈴 | [:simple-youtube:](https://www.youtube.com/watch?v=oH_ySXqLAas) | [:simple-bilibili:](https://www.bilibili.com/video/BV1sGtEeREf9/) |
 | 2024.09.28 | 【Vlog】まつりのなつやすみwith松田ファミリー【in宮崎】 | 松田里奈 | [:simple-youtube:](https://www.youtube.com/watch?v=xJNfuOlBB2w) | [:simple-bilibili:](https://www.bilibili.com/video/BV15dxte8E7o/) |
+| 2024.10.05 | 【Vlog】冬優花&光莉の夏祭りデート！人生初の○○に挑戦！ | 齋藤冬優花×遠藤光莉 | [:simple-youtube:](https://www.youtube.com/watch?v=67UnShbwFn0) | |
