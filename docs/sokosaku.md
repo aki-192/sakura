@@ -209,3 +209,4 @@ title: そこ曲がったら、櫻坂?
 | 201 | 2024.09.16 | これなら私も負けへんで！根拠のない自信バトル | [:simple-bilibili:](https://www.bilibili.com/video/BV1hpt7eFEML/) |
 | 202 | 2024.09.23 | プライベート おでかけダイアリー / 10thシングル選抜発表 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Nkxue4Ebm/) | 
 | 203 | 2024.09.30 | 運動会ご褒美企画 | [:simple-bilibili:](https://www.bilibili.com/video/BV12g4gecE9q/) |
+| 204 | 2024.10.07 | 広島ロケ選抜決定戦 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1eF2KYcEQA?p=2/) |
