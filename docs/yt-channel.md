@@ -78,4 +78,4 @@ title: 櫻坂チャンネル
 | 2024.09.18 | 【猫カフェ】かりんが猫とあそんでみた | 藤吉夏鈴 | [:simple-youtube:](https://www.youtube.com/watch?v=oH_ySXqLAas) | [:simple-bilibili:](https://www.bilibili.com/video/BV1sGtEeREf9/) |
 | 2024.09.28 | 【Vlog】まつりのなつやすみwith松田ファミリー【in宮崎】 | 松田里奈 | [:simple-youtube:](https://www.youtube.com/watch?v=xJNfuOlBB2w) | [:simple-bilibili:](https://www.bilibili.com/video/BV15dxte8E7o/) |
 | 2024.10.05 | 【Vlog】冬優花&光莉の夏祭りデート！人生初の○○に挑戦！ | 齋藤冬優花×遠藤光莉 | [:simple-youtube:](https://www.youtube.com/watch?v=67UnShbwFn0) | |
-| 2024.10.10 | 【密着】三期生ライブ 東京公演に上村莉菜が密着！大盛り上がりの先輩たちも！ | | [:simple-youtube:](https://www.youtube.com/watch?v=2J8A3qF3wCk) | | 
+| 2024.10.10 | 【密着】三期生ライブ 東京公演に上村莉菜が密着！大盛り上がりの先輩たちも！ | | [:simple-youtube:](https://www.youtube.com/watch?v=2J8A3qF3wCk) | [:simple-bilibili:](https://www.bilibili.com/video/BV1pa2yYXEoR/) | 
