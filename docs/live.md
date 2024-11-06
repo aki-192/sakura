@@ -23,7 +23,7 @@ title: LIVE
 | 7thSGBL | 2024.01.15~2024.01.16 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1nV411Q7uN/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1BJ4m1b7RX/) | [:simple-bilibili: BD](https://www.bilibili.com/video/BV1V1421b7ec/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV171421b7SU/) |
 | KYG | 2024.01.31~2024.02.01 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1o1421Z7f2/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1b4421U7j5/) | |
 | Aeon Vol.3 | 2024.03.30 | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1DD42157Xf/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1Dx4y1Y7Bo/) | |
-| 8thSGBL | 2024.05.09~2024.05.10 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1ub421h7K7/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1dw4m1Q7ov/) | |
+| 8thSGBL | 2024.05.09~2024.05.10 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1ub421h7K7/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1dw4m1Q7ov/) | [:simple-bilibili: BD](https://www.bilibili.com/video/BV165S8YUEks/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV1z1DEYQE4g?p=2te) |
 | 4thT | 2024.06.16 | [:simple-bilibili:](https://www.bilibili.com/video/BV1jm42157Uc/) | |
 | 9thSGBL | 2024.08.25 | [:simple-bilibili:](https://www.bilibili.com/video/BV1WeHYeLEpP/) | |
 
