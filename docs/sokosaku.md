@@ -213,3 +213,4 @@ title: そこ曲がったら、櫻坂?
 | 205 | 2024.10.14 | 広島ロケ選抜決定戦 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV19VmTYPE4G/) |
 | 206 | 2024.10.21 | 櫻坂46 10thシングル「I want tomorrow to come」ヒット祈願 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1jqyxYSEL4/) |
 | 207 | 2024.10.28 | 櫻坂46 10thシングル「I want tomorrow to come」ヒット祈願 後半 |  [:simple-bilibili:](https://www.bilibili.com/video/BV1C9SnYcE1t/) |
+| 208 | 2024.11.02 | どんなアイドルになりたいの！？穴埋めアンケート | [:simple-bilibili:](https://www.bilibili.com/video/BV14KDLYQEpW/) |
