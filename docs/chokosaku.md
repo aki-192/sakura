@@ -30,8 +30,10 @@ title: ちょこさく
 | 022 | 199 | 2024.09.02 | 土田フェス後夜祭 増本プレゼンツ！キラフェス！ | [:simple-bilibili:](https://www.bilibili.com/video/BV1KC12YFEhx?p=13) |
 | 023 | 200 | 2024.09.09 | バスケ部マネージャー能力チェック | [:simple-bilibili:](https://www.bilibili.com/video/BV1fF2HYLEFa/) |
 | 024 | 201 | 2024.09.16 | これなら私も負けへんで！根拠のない自信バトル 番外編 | [:simple-bilibili:](https://www.bilibili.com/video/BV1vwyTYfET4/) |
-| 025 | 202 | 2024.09.23 | もっと知りたい！プライベートおでかけダイアリー番外編 | | 
+| 025 | 202 | 2024.09.23 | もっと知りたい！プライベートおでかけダイアリー番外編 | [:simple-bilibili:](https://www.bilibili.com/video/BV14ZDHY3E8d/) | 
 | 026 | 203 | 2024.09.30 | 井上を楽しませろ！お姉ちゃんご褒美チャンス | [:simple-bilibili:](https://www.bilibili.com/video/BV1Mv4PeSEZJ/) |
 | 027 | 204 | 2024.10.07 | 純葉プレゼンツ！もっと広島広めたいんじゃ！ | |
 | 028 | 205 | 2024.10.14 | 純葉プレゼンツ！もっと広島広めたいんじゃ！(2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1y42dYREdk?p=2) |
 | 029 | 206 | 2024.10.21 | 櫻坂46 10thシングルヒット祈願の裏側を大公開しちゃおう！前半戦 | | 
+| 030 | 207 | 2024.10.28 | 櫻坂46 10thシングルヒット祈願の裏側を大公開しちゃおう！後半戦 | |
+| 031 | 208 | 2024.11.04 | どんなアイドルになりたいの？穴埋めアンケート！番外編 | |
