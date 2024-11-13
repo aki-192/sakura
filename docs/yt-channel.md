@@ -81,3 +81,4 @@ title: 櫻坂チャンネル
 | 2024.10.10 | 【密着】三期生ライブ 東京公演に上村莉菜が密着！大盛り上がりの先輩たちも！ | | [:simple-youtube:](https://www.youtube.com/watch?v=2J8A3qF3wCk) | [:simple-bilibili:](https://www.bilibili.com/video/BV1pa2yYXEoR/) | 
 | 2024.10.17 | 【Apex Legends】まつりのFPSマスターへの道 Vol.2【カジュアルマッチ編】 | 松田里奈 | [:simple-youtube:](https://www.youtube.com/watch?v=jlPX_gxRmts) | [:simple-bilibili:](https://www.bilibili.com/video/BV1nYyTY6Ewf/) |
 | 2024.10.31 | 【てんカメ】山﨑天がてんカメ動画編集に挑戦！【秘蔵映像】 | 山﨑天 | [:simple-youtube:](https://www.youtube.com/watch?v=dtqgZ1aq_UU) | [:simple-bilibili:](https://www.bilibili.com/video/BV1BmSyYpEJv/) |
+| 2024.11.11 | 【試される絆】大沼&ぷぐまるがアジリティに初挑戦！頑張りました！ | 大沼晶保  | [:simple-youtube:](https://www.youtube.com/watch?v=jntVuohcbaY) | |
