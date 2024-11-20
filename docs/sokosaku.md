@@ -215,4 +215,4 @@ title: そこ曲がったら、櫻坂?
 | 207 | 2024.10.28 | 櫻坂46 10thシングル「I want tomorrow to come」ヒット祈願 後半 |  [:simple-bilibili:](https://www.bilibili.com/video/BV1C9SnYcE1t/) |
 | 208 | 2024.11.04 | どんなアイドルになりたいの！？穴埋めアンケート | [:simple-bilibili:](https://www.bilibili.com/video/BV14KDLYQEpW/) |
 | 209 | 2024.11.11 | 今こそ一致団結！二期生決起集会！前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1kkUKYJE8z) |
-| 210 | 2024.11.18 | 今こそ一致団結！二期生決起集会！後半 | |
+| 210 | 2024.11.18 | 今こそ一致団結！二期生決起集会！後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1h6SuY3E5v/) |
