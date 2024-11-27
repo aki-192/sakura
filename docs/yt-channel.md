@@ -83,3 +83,4 @@ title: 櫻坂チャンネル
 | 2024.10.31 | 【てんカメ】山﨑天がてんカメ動画編集に挑戦！【秘蔵映像】 | 山﨑天 | [:simple-youtube:](https://www.youtube.com/watch?v=dtqgZ1aq_UU) | [:simple-bilibili:](https://www.bilibili.com/video/BV1BmSyYpEJv/) |
 | 2024.11.11 | 【試される絆】大沼&ぷぐまるがアジリティに初挑戦！頑張りました！ | 大沼晶保  | [:simple-youtube:](https://www.youtube.com/watch?v=jntVuohcbaY) | |
 | 2024.11.21 | 【Vlog】初韓国ライブの裏側&お食事会に密着【in韓国】 | | [:simple-youtube:](https://www.youtube.com/watch?v=hxGBWgFuKeI) | [:simple-bilibili:](https://www.bilibili.com/video/BV1gqBqYoE1J/) | 
+| 2024.11.26 | 【大号泣】石森の推しメン田村から逆サプライズ！【推し活】 | 田村保乃×石森璃花 | [:simple-youtube:](https://www.youtube.com/watch?v=Sd0O_GW19nM) | | 
