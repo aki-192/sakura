@@ -217,3 +217,5 @@ title: そこ曲がったら、櫻坂?
 | 209 | 2024.11.11 | 今こそ一致団結！二期生決起集会！前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1kkUKYJE8z) |
 | 210 | 2024.11.18 | 今こそ一致団結！二期生決起集会！後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1h6SuY3E5v/) |
 | 211 | 2024.11.25 | 50-50チャレンジ | [:simple-bilibili:](https://www.bilibili.com/video/BV1MFBZYCEV5?p=2) |
+| 212 | 2024.12.02 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1GsiXYPEnx/) |
+| 213 | 2024.12.09 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1RQqXYBEFy?p=2) |
