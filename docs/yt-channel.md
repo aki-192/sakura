@@ -83,4 +83,6 @@ title: 櫻坂チャンネル
 | 2024.10.31 | 【てんカメ】山﨑天がてんカメ動画編集に挑戦！【秘蔵映像】 | 山﨑天 | [:simple-youtube:](https://www.youtube.com/watch?v=dtqgZ1aq_UU) | [:simple-bilibili:](https://www.bilibili.com/video/BV1BmSyYpEJv/) |
 | 2024.11.11 | 【試される絆】大沼&ぷぐまるがアジリティに初挑戦！頑張りました！ | 大沼晶保  | [:simple-youtube:](https://www.youtube.com/watch?v=jntVuohcbaY) | |
 | 2024.11.21 | 【Vlog】初韓国ライブの裏側&お食事会に密着【in韓国】 | | [:simple-youtube:](https://www.youtube.com/watch?v=hxGBWgFuKeI) | [:simple-bilibili:](https://www.bilibili.com/video/BV1gqBqYoE1J/) | 
-| 2024.11.26 | 【大号泣】石森の推しメン田村から逆サプライズ！【推し活】 | 田村保乃×石森璃花 | [:simple-youtube:](https://www.youtube.com/watch?v=Sd0O_GW19nM) | | 
+| 2024.11.26 | 【大号泣】石森の推しメン田村から逆サプライズ！【推し活】 | 田村保乃×石森璃花 | [:simple-youtube:](https://www.youtube.com/watch?v=Sd0O_GW19nM) | [:simple-bilibili:](https://www.bilibili.com/video/BV1aAqUYdEvb/) <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1Zcq8Y5E9j/) | 
+| 2024.12.08 | 【ココイチ】いのりの1週間CoCo壱番屋カレー生活 | 井上梨名 | [:simple-youtube:](https://www.youtube.com/watch?v=ggcPd-0QsGs) | [:simple-bilibili:](https://www.bilibili.com/video/BV1e9qaY2Eyy/) | 
+| 2024.12.10 | 【爆買い】森田と谷口が愛&趣味全開！アニメイトで買いまくる！ | 森田ひかる×谷口愛季 | [:simple-youtube:](https://www.youtube.com/watch?v=Qzq7QjUUeGg) | | 
