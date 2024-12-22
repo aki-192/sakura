@@ -219,3 +219,5 @@ title: そこ曲がったら、櫻坂?
 | 211 | 2024.11.25 | 50-50チャレンジ | [:simple-bilibili:](https://www.bilibili.com/video/BV1MFBZYCEV5?p=2) |
 | 212 | 2024.12.02 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1GsiXYPEnx/) |
 | 213 | 2024.12.09 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1RQqXYBEFy?p=2) |
+| 214 | 2024.12.16 | 櫻坂46ヒット番付2024 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1tWkMYmETY/p=2) |
+| 215 | 2024.12.23 | 櫻坂46ヒット番付2024 後半 | |
