@@ -27,7 +27,7 @@ title: LIVE
 | 4thT | 2024.06.16 | [:simple-bilibili:](https://www.bilibili.com/video/BV1jm42157Uc/) | |
 | 9thSGBL | 2024.08.25 | [:simple-bilibili:](https://www.bilibili.com/video/BV1WeHYeLEpP/) | |
 | 4thYAL | 2024.11.23~2024.11.24 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1S1iBYpEDr?p=2) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1ipqbY3Ea6?p=2) | |
-| 10thSGBL | 2024.12.03~2024.12.04 | | | 
+| 10thSGBL | 2024.12.03~2024.12.04 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1cXktY8Etd?p=2) | | 
 
 # MINILIVE
 
