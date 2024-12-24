@@ -87,3 +87,4 @@ title: 櫻坂チャンネル
 | 2024.12.08 | 【ココイチ】いのりの1週間CoCo壱番屋カレー生活 | 井上梨名 | [:simple-youtube:](https://www.youtube.com/watch?v=ggcPd-0QsGs) | [:simple-bilibili:](https://www.bilibili.com/video/BV1e9qaY2Eyy/) | 
 | 2024.12.10 | 【爆買い】森田と谷口が愛&趣味全開！アニメイトで買いまくる！ | 森田ひかる×谷口愛季 | [:simple-youtube:](https://www.youtube.com/watch?v=Qzq7QjUUeGg) | | 
 | 2024.12.19 | 【Vlog】海外ライブin香港！&自由時間もしっかり満喫！ | | [:simple-youtube:](https://www.youtube.com/watch?v=yyTJDXW7dEY) | [:simple-bilibili:](https://www.bilibili.com/video/BV1mXk1YpELy/) |
+| 2024.12.24 | 【お忍び】みうあいりの真冬のイルミネーションデート | 谷口愛季×村山美羽 | [:simple-youtube:](https://www.youtube.com/watch?v=1fe-r1qLIDA) | |
