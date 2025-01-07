@@ -85,6 +85,7 @@ title: 櫻坂チャンネル
 | 2024.11.21 | 【Vlog】初韓国ライブの裏側&お食事会に密着【in韓国】 | | [:simple-youtube:](https://www.youtube.com/watch?v=hxGBWgFuKeI) | [:simple-bilibili:](https://www.bilibili.com/video/BV1gqBqYoE1J/) | 
 | 2024.11.26 | 【大号泣】石森の推しメン田村から逆サプライズ！【推し活】 | 田村保乃×石森璃花 | [:simple-youtube:](https://www.youtube.com/watch?v=Sd0O_GW19nM) | [:simple-bilibili:](https://www.bilibili.com/video/BV1aAqUYdEvb/) <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1Zcq8Y5E9j/) | 
 | 2024.12.08 | 【ココイチ】いのりの1週間CoCo壱番屋カレー生活 | 井上梨名 | [:simple-youtube:](https://www.youtube.com/watch?v=ggcPd-0QsGs) | [:simple-bilibili:](https://www.bilibili.com/video/BV1e9qaY2Eyy/) | 
-| 2024.12.10 | 【爆買い】森田と谷口が愛&趣味全開！アニメイトで買いまくる！ | 森田ひかる×谷口愛季 | [:simple-youtube:](https://www.youtube.com/watch?v=Qzq7QjUUeGg) | | 
+| 2024.12.10 | 【爆買い】森田と谷口が愛&趣味全開！アニメイトで買いまくる！ | 森田ひかる×谷口愛季 | [:simple-youtube:](https://www.youtube.com/watch?v=Qzq7QjUUeGg) | [:simple-bilibili:](https://www.bilibili.com/video/BV1NarmYQE4J/) | 
 | 2024.12.19 | 【Vlog】海外ライブin香港！&自由時間もしっかり満喫！ | | [:simple-youtube:](https://www.youtube.com/watch?v=yyTJDXW7dEY) | [:simple-bilibili:](https://www.bilibili.com/video/BV1mXk1YpELy/) |
 | 2024.12.24 | 【お忍び】みうあいりの真冬のイルミネーションデート | 谷口愛季×村山美羽 | [:simple-youtube:](https://www.youtube.com/watch?v=1fe-r1qLIDA) | [:simple-bilibili:](https://www.bilibili.com/video/BV1uN6hYGEqs/) |
+| 2024.12.30 | 【Vlog】的野のまったり休日withうさぎねこ | 的野美青×村井優×山下瞳月 | [:simple-youtube:](https://www.youtube.com/watch?v=-aSJADouHkA) | [:simple-bilibili:](https://www.bilibili.com/video/BV1KtrVY4Eqi/) | 
