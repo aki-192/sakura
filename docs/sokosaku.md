@@ -221,3 +221,4 @@ title: そこ曲がったら、櫻坂?
 | 213 | 2024.12.09 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1RQqXYBEFy?p=2) |
 | 214 | 2024.12.16 | 櫻坂46ヒット番付2024 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1tWkMYmETY?p=2) |
 | 215 | 2024.12.23 | 櫻坂46ヒット番付2024 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1C5CPYwEi5?p=2) |
+| 216 | 2025.01.06 | 2025年もってるクイーン | [:simple-bilibili:](https://www.bilibili.com/video/BV1AVrvYjENt?p=2) |
