@@ -89,3 +89,4 @@ title: 櫻坂チャンネル
 | 2024.12.19 | 【Vlog】海外ライブin香港！&自由時間もしっかり満喫！ | | [:simple-youtube:](https://www.youtube.com/watch?v=yyTJDXW7dEY) | [:simple-bilibili:](https://www.bilibili.com/video/BV1mXk1YpELy/) |
 | 2024.12.24 | 【お忍び】みうあいりの真冬のイルミネーションデート | 谷口愛季×村山美羽 | [:simple-youtube:](https://www.youtube.com/watch?v=1fe-r1qLIDA) | [:simple-bilibili:](https://www.bilibili.com/video/BV1uN6hYGEqs/) |
 | 2024.12.30 | 【Vlog】的野のまったり休日withうさぎねこ | 的野美青×村井優×山下瞳月 | [:simple-youtube:](https://www.youtube.com/watch?v=-aSJADouHkA) | [:simple-bilibili:](https://www.bilibili.com/video/BV1KtrVY4Eqi/) | 
+| 2025.01.11 | 【初公開】櫻坂46の衣装倉庫に小池&齋藤が潜入&着用！ | 小池美波×齋藤冬優花 | [:simple-youtube](https://www.youtube.com/watch?v=vY4j_nM6_TM) | | 
