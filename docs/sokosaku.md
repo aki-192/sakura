@@ -217,8 +217,11 @@ title: そこ曲がったら、櫻坂?
 | 209 | 2024.11.11 | 今こそ一致団結！二期生決起集会！前半 |  |
 | 210 | 2024.11.18 | 今こそ一致団結！二期生決起集会！後半 |  |
 | 211 | 2024.11.25 | 50-50チャレンジ | [:simple-bilibili:](https://www.bilibili.com/video/BV1MFBZYCEV5?p=2) |
-| 212 | 2024.12.02 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1GsiXYPEnx/) |
-| 213 | 2024.12.09 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1RQqXYBEFy?p=2) |
-| 214 | 2024.12.16 | 櫻坂46ヒット番付2024 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1tWkMYmETY?p=2) |
-| 215 | 2024.12.23 | 櫻坂46ヒット番付2024 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1C5CPYwEi5?p=2) |
-| 216 | 2025.01.06 | 2025年もってるクイーン | [:simple-bilibili:](https://www.bilibili.com/video/BV1AVrvYjENt?p=2) |
+| 212 | 2024.12.02 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 前半 | |
+| 213 | 2024.12.09 | 一・二期生VS三期生 研ぎ澄ませ！味覚バトル！ 後半 | |
+| 214 | 2024.12.16 | 櫻坂46ヒット番付2024 前半 | |
+| 215 | 2024.12.23 | 櫻坂46ヒット番付2024 後半 | |
+| 216 | 2025.01.06 | 2025年もってるクイーン | |
+| 217 | 2025.01.13 | 森田軍vs藤吉軍 へびガールバトル | |
+| 218 | 2025.01.20 | 櫻坂46個人的この〇〇がスゴい！ 前半 | |
+| 219 | 2025.01.27 | 櫻坂46個人的この〇〇がスゴい！ 後半 | |
