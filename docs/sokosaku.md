@@ -196,13 +196,13 @@ title: そこ曲がったら、櫻坂?
 | 188 | 2024.06.17 | 先輩の顔マモリビトチャレンジ！！ 後半                                    | [:simple-bilibili:](https://www.bilibili.com/video/BV1m4421Q7HW/)  |
 | 189 | 2024.06.24 | 櫻坂46 9thシングル「自業自得」ヒット祈願 前半                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1QS421d7oX/)  |
 | 190 | 2024.07.01 | 櫻坂46 9thシングル「自業自得」ヒット祈願 後半                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1EW421R72R/)  |
-| 191 | 2024.07.08 | 新センター山下瞳月の「かかってこんかい！」                                  | [:simple-bilibili:](https://www.bilibili.com/video/BV1sW421R7L1/)  |
-| 192 | 2024.07.15 | おい！櫻坂46 全力で声出せんのか！                                     | [:simple-bilibili:](https://www.bilibili.com/video/BV1Hy411i7oG/)  |
-| 193 | 2024.07.22 | 得意ジャンルで挑め！櫻坂46VSクイズ王バトル 前半                             | [:simple-bilibili:](https://www.bilibili.com/video/BV1xr421K7ey/)  |
-| 194 | 2024.07.29 | 得意ジャンルで挑め！櫻坂46VSクイズ王バトル 後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ZS421X7ZD/) |
-| 195 | 2024.08.05 | 櫻坂46真夏の大運動会！！前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1KZ421K7L4/)|
-| 196 | 2024.08.12 | 櫻坂46真夏の大運動会！！後半 | [:simple-bilibili:](https://www.bilibili.com/video/BV18m42137gB/) |
-| 197 | 2024.08.19 | 三期生真夏の胸キュングランプリ！ 前半 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ZJWYerEZM/) |
+| 191 | 2024.07.08 | 新センター山下瞳月の「かかってこんかい！」|   |
+| 192 | 2024.07.15 | おい！櫻坂46 全力で声出せんのか！ |  |
+| 193 | 2024.07.22 | 得意ジャンルで挑め！櫻坂46VSクイズ王バトル 前半 |  |
+| 194 | 2024.07.29 | 得意ジャンルで挑め！櫻坂46VSクイズ王バトル 後半 |  |
+| 195 | 2024.08.05 | 櫻坂46真夏の大運動会！！前半 | |
+| 196 | 2024.08.12 | 櫻坂46真夏の大運動会！！後半 |  |
+| 197 | 2024.08.19 | 三期生真夏の胸キュングランプリ！ 前半 |  |
 | 198 | 2024.08.26 | 三期生真夏の胸キュングランプリ！ 後半 |  |
 | 199 | 2024.09.02 | ツッチー52歳 ハピバフェス2024 |  |
 | 200 | 2024.09.09 | 櫻坂バスケ部！部員緊急募集！ | |
