@@ -89,4 +89,10 @@ title: 櫻坂チャンネル
 | 2024.12.19 | 【Vlog】海外ライブin香港！&自由時間もしっかり満喫！ | | [:simple-youtube:](https://www.youtube.com/watch?v=yyTJDXW7dEY) | [:simple-bilibili:](https://www.bilibili.com/video/BV1mXk1YpELy/) |
 | 2024.12.24 | 【お忍び】みうあいりの真冬のイルミネーションデート | 谷口愛季×村山美羽 | [:simple-youtube:](https://www.youtube.com/watch?v=1fe-r1qLIDA) | [:simple-bilibili:](https://www.bilibili.com/video/BV1uN6hYGEqs/) |
 | 2024.12.30 | 【Vlog】的野のまったり休日withうさぎねこ | 的野美青×村井優×山下瞳月 | [:simple-youtube:](https://www.youtube.com/watch?v=-aSJADouHkA) | [:simple-bilibili:](https://www.bilibili.com/video/BV1KtrVY4Eqi/) | 
-| 2025.01.11 | 【初公開】櫻坂46の衣装倉庫に小池&齋藤が潜入&着用！ | 小池美波×齋藤冬優花 | [:simple-youtube](https://www.youtube.com/watch?v=vY4j_nM6_TM) | | 
+| 2025.01.11 | 【初公開】櫻坂46の衣装倉庫に小池&齋藤が潜入&着用！ | 小池美波×齋藤冬優花 | [:simple-youtube](https://www.youtube.com/watch?v=vY4j_nM6_TM) | [:simple-bilibili:](https://www.bilibili.com/video/BV1qzfaYkEpL/) <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1wsKTeaExK/) | 
+| 2025.01.25 | 【第1弾】櫻坂46メンバーの気ままなお正月【Vlog】 | | [:simple-youtube:](https://www.youtube.com/watch?v=yRKtgRhBptw) | [:simple-bilibili:](https://www.bilibili.com/video/BV1EPfsYWEKy/) |
+| 2025.01.31 | 【第2弾】櫻坂46メンバーの旅行尽くしのお正月【Vlog】 | | [:simple-youtube:](https://www.youtube.com/watch?v=fy9o5NSvRDg) | [:simple-bilibili:](https://www.bilibili.com/video/BV1fXPzeyEbx/) <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1scNpegEkj) |
+| 2025.02.06 | 【櫻坂軽音楽部】ついに軽音楽部始動！ギターとドラムで合わせてみました！ | 遠藤理子×谷口愛季 | [:simple-youtube:](https://www.youtube.com/watch?v=2uzIyj6oMGY) | [:simple-bilibili:](https://www.bilibili.com/video/BV1jdNpeaE7q/) |
+| 2025.02.11 | 【完全版】いのほのヨーロッパ旅行【Vlog】 | 井上梨名×田村保乃 | [:simple-youtube:](https://www.youtube.com/watch?v=eLNZB73dDBE) | [:simple-bilibili:](https://www.bilibili.com/video/BV1BDK7eWEJP/) |
+| 2025.02.19 | 【お姉さんズ散歩】石森璃花・中嶋優月のぶらり三軒茶屋 | 石森璃花×中嶋優月| [:simple-youtube:](https://www.youtube.com/watch?v=0V7iUeKZrCo) | |
+
