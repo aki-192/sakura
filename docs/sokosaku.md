@@ -228,5 +228,7 @@ title: そこ曲がったら、櫻坂?
 | 220 | 2025.02.03 | そこさく二十歳お祝い会 前半 | [:simple-sinaweibo:](https://video.weibo.com/show?fid=1034:5131062209085515) |
 | 221 | 2025.02.10 | そこさく二十歳お祝い会 後半 | [:simple-sinaweibo:](https://video.weibo.com/show?fid=1034:5133623410491469) |
 | 222 | 2025.02.17 | 櫻坂46 11thシングル「UDAGAWA GENERATION」ヒットキャンペーン | [:simple-sinaweibo:](https://weibo.com/tv/show/1034:5136277310472204) |
-| 223 | 2025.02.24 | 第2回 あるある発表会 前半 | |
-| 224 | 2025.03.03 | 第2回 あるある発表会 後半 | |
+| 223 | 2025.02.24 | 第2回 あるある発表会 前半 | [:simple-sinaweibo:](https://weibo.com/tv/show/1034:5138624082018335) |
+| 224 | 2025.03.03 | 第2回 あるある発表会 後半 | [:simple-sinaweibo:](https://weibo.com/tv/show/1034:5141286987169855) |
+| 225 | 2025.03.10 | サンキューチャレンジ 前半 | [:simple-sinaweibo:](https://weibo.com/tv/show/1034:5144250057424994) |
+| 226 | 2025.03.17 | サンキューチャレンジ 後半 | |
