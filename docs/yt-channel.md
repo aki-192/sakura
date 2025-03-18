@@ -98,3 +98,4 @@ title: 櫻坂チャンネル
 | 2025.02.28 | 【メイド喫茶】かりんにゃんお嬢様が初入店【サプライズゲスト登場】 | 藤吉夏鈴×守屋麗奈 | [:simple-youtube:](https://www.youtube.com/watch?v=Gah1mY98PxI) | [:simple-bilibili:](https://www.bilibili.com/video/BV1VGXQY3ETU/) <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1QSXmYbE4C/) |
 | 2025.03.05 | 【作業用】大園×森田が1時間でレジン&プラ板キーホルダーを作ってみた | 大園玲×森田ひかる | [:simple-youtube:](https://www.youtube.com/watch?v=S6GiU5dAY58) | [:simple-bilibili:](https://www.bilibili.com/video/BV1C99mYSEvJ/) |
 | 2025.03.10 | 一夜限りのみいたこ屋開店！お客さんも続々！【たこ焼き】 | | [:simple-youtube:](https://www.youtube.com/watch?v=IiPiU3FFpig) | |
+| 2025.03.18 | 【念願】みいりこがロリータ・ファッションに挑戦！神楽坂もぶらり！ | 小池美波×遠藤理子 | [:simple-youtube:](https://www.youtube.com/watch?v=IXPuxz8Q1Ek) | [:simple-bilibili:](https://www.bilibili.com/video/BV1VgX7YyEZi/) |
