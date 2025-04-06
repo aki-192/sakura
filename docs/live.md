@@ -6,7 +6,7 @@ title: LIVE
 
 | #   | Date | L | BD |
 | --- | --- | --- | --- |
-| DCDL | 2020.12.08 | | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rv41177Zj?p=1) |
+| DCDL | 2020.12.08 | | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rv41177Zj?p=1) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV1thQBYoEWv/)  |
 | ST | 2021.01.31 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rv41177Zj?p=2) | |
 | WKF | 2021.07.09~2021.07.11 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1i64y14773/) <br> [:simple-bilibili: D3](https://www.bilibili.com/video/BV1nK4y1u7WH/) | |
 | 1stT | 2021.10.31 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Vh411t7eg/) | |
@@ -22,6 +22,7 @@ title: LIVE
 | Aeon Vol.3 | 2024.03.30 | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1DD42157Xf/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1Dx4y1Y7Bo/) | |
 | 4thT | 2024.06.16 | [:simple-bilibili:](https://www.bilibili.com/video/BV1jm42157Uc/) | |
 | 4thYAL | 2024.11.23~2024.11.24 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1S1iBYpEDr?p=2) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1ipqbY3Ea6?p=2) | |
+| Aeon Vol.4 | 2025.03.19 | [:simple-bilibili:P1](https://www.bilibili.com/video/BV1UJoQYgEj5/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1wwXYYKEUV/) | | 
 
 # BACKS LIVE
 
@@ -32,7 +33,8 @@ title: LIVE
 | 7thSGBL | 2024.01.15~2024.01.16 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1nV411Q7uN/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1BJ4m1b7RX/) | [:simple-bilibili: BD](https://www.bilibili.com/video/BV1V1421b7ec/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV171421b7SU/) |
 | 8thSGBL | 2024.05.09~2024.05.10 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1ub421h7K7/) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV1dw4m1Q7ov/) | [:simple-bilibili: BD](https://www.bilibili.com/video/BV165S8YUEks/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV1z1DEYQE4g?p=2) |
 | 9thSGBL | 2024.08.25 | [:simple-bilibili:](https://www.bilibili.com/video/BV1WeHYeLEpP/) | |
-| 10thSGBL | 2024.12.03~2024.12.04 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1cXktY8Etd?p=2) | | 
+| 10thSGBL | 2024.12.03~2024.12.04 | [:simple-bilibili: D1](https://www.bilibili.com/video/BV1cXktY8Etd?p=2) <br> [:simple-bilibili: D2](https://www.bilibili.com/video/BV13wwceEEhv/) | | 
+| 11thSGBL | 2025.03.07 | [:simple-bilibili:](https://www.bilibili.com/video/BV12DQcYEErb/) | |
 
 # MINI LIVE
 
