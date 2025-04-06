@@ -44,4 +44,4 @@ title: 三期生
 | --- | --- | --- | --- |
 | 2023.11.12 | 新参者 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Lu4y1V7R4/) | |
 | 2023.12.02 | 新参者 | [:simple-bilibili:](https://www.bilibili.com/video/BV1Rt421b7Uo/) | [:simple-bilibili: P1](https://www.bilibili.com/video/BV13C411a7bm/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1xw4m1Z7Li/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV1sc411S7oH/) |
-| 2024.10.09 | 三期生ライブ | [:simple-bilibili:](https://www.bilibili.com/video/BV1qE28YKEsW/) | |
+| 2024.10.09 | 三期生ライブ | [:simple-bilibili:](https://www.bilibili.com/video/BV1qE28YKEsW/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1tRAneqEx8/) |
