@@ -99,3 +99,5 @@ title: 櫻坂チャンネル
 | 2025.03.05 | 【作業用】大園×森田が1時間でレジン&プラ板キーホルダーを作ってみた | 大園玲×森田ひかる | [:simple-youtube:](https://www.youtube.com/watch?v=S6GiU5dAY58) | [:simple-bilibili:](https://www.bilibili.com/video/BV1C99mYSEvJ/) |
 | 2025.03.10 | 一夜限りのみいたこ屋開店！お客さんも続々！【たこ焼き】 | | [:simple-youtube:](https://www.youtube.com/watch?v=IiPiU3FFpig) | |
 | 2025.03.18 | 【念願】みいりこがロリータ・ファッションに挑戦！神楽坂もぶらり！ | 小池美波×遠藤理子 | [:simple-youtube:](https://www.youtube.com/watch?v=IXPuxz8Q1Ek) | [:simple-bilibili:](https://www.bilibili.com/video/BV1VgX7YyEZi/) |
+| 2025.03.26 | 【ポケモン】松田里奈 & 森田ひかるがポケモンカフェに来店！【松森】 | 松田里奈×森田ひかる | [:simple-youtube:](https://www.youtube.com/watch?v=63xN1Kl-ldQ) | [:simple-bilibili:](https://www.bilibili.com/video/BV1saZTY7E4p/) |
+| 2025.04.01 | 【Vlog】中嶋優月のアイドル&大学生の1日 東京↔福岡【大学生】 | 中嶋優月 | [:simple-youtube:](https://www.youtube.com/watch?v=arDk7D5_rRE) | [:simple-bilibili:](https://www.bilibili.com/video/BV1DHZ8YpEcq/) |
